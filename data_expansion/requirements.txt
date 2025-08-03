@@ -1,0 +1,40 @@
+# Data Expansion Requirements
+
+# Core dependencies
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+pandas>=2.0.0
+pyyaml>=6.0
+
+# LangChain and API clients
+langchain>=0.1.0
+langchain-groq>=0.1.0
+langchain-core>=0.1.0
+groq>=0.4.0
+
+# Data processing
+numpy>=1.24.0
+jsonlines>=3.1.0
+
+# Web scraping
+lxml>=4.9.0
+selenium>=4.15.0  # For dynamic content if needed
+fake-useragent>=1.4.0
+
+# Text processing
+nltk>=3.8.0
+spacy>=3.7.0
+textblob>=0.17.0
+
+# Utilities
+tqdm>=4.65.0
+python-dotenv>=1.0.0
+click>=8.1.0
+
+# Quality and validation
+validators>=0.22.0
+langdetect>=1.0.9
+
+# Optional: For advanced text processing
+# transformers>=4.30.0
+# sentence-transformers>=2.2.0

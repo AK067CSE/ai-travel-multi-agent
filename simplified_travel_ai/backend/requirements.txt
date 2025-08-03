@@ -1,0 +1,49 @@
+# Django REST Framework Backend
+Django==4.2.7
+djangorestframework==3.14.0
+django-cors-headers==4.3.1
+django-environ==0.11.2
+
+# AI/ML Stack - Production Level
+langchain==0.1.0
+langchain-groq==0.1.0
+langchain-openai==0.0.5
+langchain-anthropic==0.1.0
+langchain-core>=0.1.0
+openai==1.6.1
+anthropic==0.8.1
+groq==0.4.1
+
+# Vector Databases & RAG
+chromadb==0.4.18
+sentence-transformers==2.2.2
+rank-bm25==0.2.2
+faiss-cpu==1.7.4
+
+# CrewAI Multi-Agent Framework
+crewai>=0.1.0
+crewai-tools>=0.1.0
+
+# NLP & Text Processing
+nltk>=3.8.0
+spacy>=3.7.0
+
+# Data Processing & ML
+numpy==1.24.3
+pandas==2.1.4
+scikit-learn==1.3.2
+
+# Web Scraping & APIs
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+fake-useragent>=1.4.0
+
+# Utilities
+python-dotenv==1.0.0
+pyyaml>=6.0
+tqdm>=4.65.0
+jsonlines>=3.1.0
+
+# Development & Testing
+pytest>=7.0.0
+black>=23.0.0

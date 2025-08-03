@@ -1,0 +1,2874 @@
+Watching for file changes with StatReloader
+Not Found: /
+"GET / HTTP/1.1" 404 2164
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2215
+"GET /api/status/ HTTP/1.1" 200 339
+- Broken pipe from ('127.0.0.1', 50736)
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2215
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2215
+"GET /api/status/ HTTP/1.1" 200 339
+"GET /api/status/ HTTP/1.1" 200 339
+Not Found: /manifest.json
+"GET /manifest.json HTTP/1.1" 404 2221
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2215
+"GET /api/status/ HTTP/1.1" 200 338
+Not Found: /manifest.json
+"GET /api/status/ HTTP/1.1" 200 339
+"GET /manifest.json HTTP/1.1" 404 2221
+"GET /api/status/ HTTP/1.1" 200 339
+"GET /api/status/ HTTP/1.1" 200 339
+"GET /api/status/ HTTP/1.1" 200 339
+"GET /api/status/ HTTP/1.1" 200 339
+"OPTIONS /api/chat/stream/ HTTP/1.1" 200 0
+Bad Request: /api/chat/stream/
+"POST /api/chat/stream/ HTTP/1.1" 400 46
+"GET /api/status/ HTTP/1.1" 200 338
+"GET /api/status/ HTTP/1.1" 200 339
+Bad Request: /api/chat/stream/
+"POST /api/chat/stream/ HTTP/1.1" 400 46
+"GET /api/status/ HTTP/1.1" 200 338
+"GET /api/status/ HTTP/1.1" 200 337
+Not Found: /main.e9a59fd1fb59713e245f.hot-update.json
+"GET /main.e9a59fd1fb59713e245f.hot-update.json HTTP/1.1" 404 2305
+Not Found: /main.e9a59fd1fb59713e245f.hot-update.json
+"GET /main.e9a59fd1fb59713e245f.hot-update.json HTTP/1.1" 404 2305
+"GET /api/status/ HTTP/1.1" 200 339
+"GET /api/status/ HTTP/1.1" 200 339
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2215
+"GET /api/status/ HTTP/1.1" 200 339
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2215
+Not Found: /manifest.json
+"GET /manifest.json HTTP/1.1" 404 2221
+"GET /api/status/ HTTP/1.1" 200 338
+Not Found: /manifest.json
+"GET /manifest.json HTTP/1.1" 404 2221
+Bad Request: /api/chat/stream/
+"POST /api/chat/stream/ HTTP/1.1" 400 46
+"GET /api/status/ HTTP/1.1" 200 339
+"GET /api/status/ HTTP/1.1" 200 338
+"GET /api/status/ HTTP/1.1" 200 339
+"GET /api/status/ HTTP/1.1" 200 339
+"GET /api/status/ HTTP/1.1" 200 339
+"GET /api/status/ HTTP/1.1" 200 338
+"GET /api/status/ HTTP/1.1" 200 338
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2215
+Not Found: /manifest.json
+"GET /manifest.json HTTP/1.1" 404 2221
+"POST /api/chat/stream/ HTTP/1.1" 500 59
+C:\Users\abhik\Downloads\traveling\simplified_travel_ai\backend\api\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\abhik\Downloads\traveling\simplified_travel_ai\backend\api\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/status/ HTTP/1.1" 200 339
+"GET /api/status/ HTTP/1.1" 200 339
+"GET /api/status/ HTTP/1.1" 200 338
+"POST /api/chat/stream/ HTTP/1.1" 500 59
+"GET /api/status/ HTTP/1.1" 200 339
+"GET /api/status/ HTTP/1.1" 200 339
+Processing chat request: Hello, plan a trip to Paris... Session: session_1753640666
+"POST /api/chat/ HTTP/1.1" 200 597
+"GET /api/status/ HTTP/1.1" 200 338
+"GET /api/status/ HTTP/1.1" 200 339
+Not Found: /main.9a7a922f33b46cf63c0e.hot-update.json
+"GET /main.9a7a922f33b46cf63c0e.hot-update.json HTTP/1.1" 404 2305
+Not Found: /main.9a7a922f33b46cf63c0e.hot-update.json
+"GET /main.9a7a922f33b46cf63c0e.hot-update.json HTTP/1.1" 404 2305
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2215
+"GET /api/status/ HTTP/1.1" 200 339
+"GET /api/status/ HTTP/1.1" 200 339
+"GET /api/status/ HTTP/1.1" 200 338
+"GET /api/status/ HTTP/1.1" 200 338
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2215
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2215
+"GET /api/status/ HTTP/1.1" 200 339
+"GET /api/status/ HTTP/1.1" 200 339
+Not Found: /manifest.json
+"GET /manifest.json HTTP/1.1" 404 2221
+Not Found: /manifest.json
+"GET /manifest.json HTTP/1.1" 404 2221
+Not Found: /manifest.json
+"GET /manifest.json HTTP/1.1" 404 2221
+"POST /api/chat/stream/ HTTP/1.1" 500 59
+"GET /api/status/ HTTP/1.1" 200 338
+"GET /api/status/ HTTP/1.1" 200 339
+"GET /api/status/ HTTP/1.1" 200 339
+"GET /api/conversations/ HTTP/1.1" 200 766
+"GET /api/conversations/ HTTP/1.1" 200 766
+"GET /api/status/ HTTP/1.1" 200 338
+"GET /api/status/ HTTP/1.1" 200 339
+"GET /api/status/ HTTP/1.1" 200 339
+C:\Users\abhik\Downloads\traveling\simplified_travel_ai\backend\backend\settings.py changed, reloading.
+Watching for file changes with StatReloader
+"OPTIONS /api/chat/stream/ HTTP/1.1" 200 0
+"POST /api/chat/stream/ HTTP/1.1" 500 59
+"GET /api/status/ HTTP/1.1" 200 339
+"GET /api/status/ HTTP/1.1" 200 338
+"GET /api/status/ HTTP/1.1" 200 338
+Watching for file changes with StatReloader
+"GET /api/status/ HTTP/1.1" 200 339
+"GET /api/status/ HTTP/1.1" 200 339
+"GET /api/status/ HTTP/1.1" 200 339
+Processing chat request: Test connection... Session: session_1753640840
+"POST /api/chat/ HTTP/1.1" 200 580
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2215
+"GET /api/status/ HTTP/1.1" 200 337
+"GET /api/status/ HTTP/1.1" 200 339
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2215
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2215
+"GET /api/status/ HTTP/1.1" 200 339
+"GET /api/status/ HTTP/1.1" 200 339
+"GET /api/status/ HTTP/1.1" 200 339
+"GET /api/status/ HTTP/1.1" 200 339
+Not Found: /manifest.json
+"GET /manifest.json HTTP/1.1" 404 2221
+Not Found: /manifest.json
+"GET /manifest.json HTTP/1.1" 404 2221
+Not Found: /manifest.json
+"GET /manifest.json HTTP/1.1" 404 2221
+"POST /api/chat/stream/ HTTP/1.1" 500 59
+"GET /api/status/ HTTP/1.1" 200 339
+"GET /api/status/ HTTP/1.1" 200 338
+"GET /api/status/ HTTP/1.1" 200 338
+"GET /api/status/ HTTP/1.1" 200 339
+"GET /api/status/ HTTP/1.1" 200 339
+Not Found: /main.2ddd1eb384c304fb00ad.hot-update.json
+"GET /main.2ddd1eb384c304fb00ad.hot-update.json HTTP/1.1" 404 2305
+Not Found: /main.2ddd1eb384c304fb00ad.hot-update.json
+"GET /main.2ddd1eb384c304fb00ad.hot-update.json HTTP/1.1" 404 2305
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2215
+"GET /api/status/ HTTP/1.1" 200 339
+"GET /api/status/ HTTP/1.1" 200 338
+"GET /api/status/ HTTP/1.1" 200 337
+"GET /api/status/ HTTP/1.1" 200 339
+"GET /api/status/ HTTP/1.1" 200 338
+"GET /api/status/ HTTP/1.1" 200 339
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2215
+Not Found: /manifest.json
+"GET /manifest.json HTTP/1.1" 404 2221
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2215
+Not Found: /manifest.json
+"GET /manifest.json HTTP/1.1" 404 2221
+Not Found: /manifest.json
+"GET /manifest.json HTTP/1.1" 404 2221
+"POST /api/chat/stream/ HTTP/1.1" 500 59
+"GET /api/status/ HTTP/1.1" 200 339
+"GET /api/status/ HTTP/1.1" 200 338
+"GET /api/status/ HTTP/1.1" 200 339
+"OPTIONS /api/chat/ HTTP/1.1" 200 0
+Processing chat request: Hello from test page... Session: session_1753640976
+"POST /api/chat/ HTTP/1.1" 200 578
+"GET /api/status/ HTTP/1.1" 200 339
+"GET /api/status/ HTTP/1.1" 200 339
+"GET /api/status/ HTTP/1.1" 200 339
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2215
+"GET /api/status/ HTTP/1.1" 200 339
+"GET /api/status/ HTTP/1.1" 200 339
+"POST /api/chat/stream/ HTTP/1.1" 500 59
+C:\Users\abhik\Downloads\traveling\simplified_travel_ai\backend\backend\settings.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/status/ HTTP/1.1" 200 339
+"GET /api/status/ HTTP/1.1" 200 339
+C:\Users\abhik\Downloads\traveling\simplified_travel_ai\backend\api\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/status/ HTTP/1.1" 200 338
+C:\Users\abhik\Downloads\traveling\simplified_travel_ai\backend\api\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/status/ HTTP/1.1" 200 339
+"GET /api/status/ HTTP/1.1" 200 339
+"GET /api/status/ HTTP/1.1" 200 339
+"POST /api/chat/stream/ HTTP/1.1" 500 59
+"POST /api/chat/stream/ HTTP/1.1" 500 59
+"GET /api/status/ HTTP/1.1" 200 339
+"GET /api/status/ HTTP/1.1" 200 339
+"GET /api/status/ HTTP/1.1" 200 339
+"GET /api/status/ HTTP/1.1" 200 339
+"GET /api/status/ HTTP/1.1" 200 338
+"GET /api/status/ HTTP/1.1" 200 339
+"POST /api/chat/stream/ HTTP/1.1" 500 59
+"GET /api/status/ HTTP/1.1" 200 339
+"GET /api/status/ HTTP/1.1" 200 338
+"GET /api/status/ HTTP/1.1" 200 337
+C:\Users\abhik\Downloads\traveling\simplified_travel_ai\backend\api\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/status/ HTTP/1.1" 200 339
+"GET /api/status/ HTTP/1.1" 200 339
+"GET /api/status/ HTTP/1.1" 200 337
+Watching for file changes with StatReloader
+"GET /api/status/ HTTP/1.1" 200 338
+"GET /api/status/ HTTP/1.1" 200 339
+"GET /api/status/ HTTP/1.1" 200 338
+"GET /api/status/ HTTP/1.1" 200 339
+"POST /api/chat/stream/ HTTP/1.1" 500 59
+"GET /api/status/ HTTP/1.1" 200 339
+"GET /api/status/ HTTP/1.1" 200 339
+"GET /api/status/ HTTP/1.1" 200 339
+Processing chat request: Find the best budget-friendly destinations in Sout... Session: session_1753641316
+"POST /api/chat/ HTTP/1.1" 200 552
+Processing chat request: i want hotel... Session: session_1753641316
+"POST /api/chat/ HTTP/1.1" 200 578
+"GET /api/status/ HTTP/1.1" 200 339
+"GET /api/status/ HTTP/1.1" 200 339
+"GET /api/status/ HTTP/1.1" 200 339
+"GET /api/status/ HTTP/1.1" 200 338
+Processing chat request: romantic restaurents... Session: session_1753641316
+"POST /api/chat/ HTTP/1.1" 200 734
+"GET /api/status/ HTTP/1.1" 200 339
+Processing chat request: can you offer me restaurants to stay there... Session: session_1753641316
+"POST /api/chat/ HTTP/1.1" 200 579
+Processing chat request: france... Session: session_1753641316
+"POST /api/chat/ HTTP/1.1" 200 576
+Processing chat request: adventure... Session: session_1753641316
+"POST /api/chat/ HTTP/1.1" 200 561
+"GET /api/status/ HTTP/1.1" 200 339
+"GET /api/status/ HTTP/1.1" 200 339
+"GET /api/status/ HTTP/1.1" 200 339
+"GET /api/status/ HTTP/1.1" 200 339
+"GET /api/status/ HTTP/1.1" 200 339
+"GET /api/status/ HTTP/1.1" 200 339
+"GET /api/status/ HTTP/1.1" 200 339
+"GET /api/status/ HTTP/1.1" 200 339
+"GET /api/status/ HTTP/1.1" 200 338
+"GET /api/status/ HTTP/1.1" 200 339
+Processing chat request: hotels in nepal... Session: session_1753641316
+"POST /api/chat/ HTTP/1.1" 200 579
+"GET /api/status/ HTTP/1.1" 200 340
+"GET /api/status/ HTTP/1.1" 200 340
+"GET /api/status/ HTTP/1.1" 200 340
+"GET /api/status/ HTTP/1.1" 200 340
+"GET /api/status/ HTTP/1.1" 200 340
+"GET /api/status/ HTTP/1.1" 200 340
+"GET /api/status/ HTTP/1.1" 200 340
+"GET /api/status/ HTTP/1.1" 200 340
+"GET /api/status/ HTTP/1.1" 200 340
+"GET /api/status/ HTTP/1.1" 200 340
+"GET /api/status/ HTTP/1.1" 200 340
+"GET /api/status/ HTTP/1.1" 200 340
+"GET /api/status/ HTTP/1.1" 200 340
+"GET /api/status/ HTTP/1.1" 200 340
+"GET /api/status/ HTTP/1.1" 200 340
+"GET /api/status/ HTTP/1.1" 200 340
+"GET /api/status/ HTTP/1.1" 200 340
+"GET /api/status/ HTTP/1.1" 200 339
+"GET /api/status/ HTTP/1.1" 200 340
+"GET /api/status/ HTTP/1.1" 200 340
+"GET /api/status/ HTTP/1.1" 200 339
+"GET /api/status/ HTTP/1.1" 200 340
+"GET /api/status/ HTTP/1.1" 200 340
+"GET /api/status/ HTTP/1.1" 200 340
+"GET /api/status/ HTTP/1.1" 200 339
+"GET /api/status/ HTTP/1.1" 200 339
+"GET /api/status/ HTTP/1.1" 200 339
+"GET /api/status/ HTTP/1.1" 200 340
+"GET /api/status/ HTTP/1.1" 200 340
+"GET /api/status/ HTTP/1.1" 200 340
+"GET /api/status/ HTTP/1.1" 200 340
+"GET /api/status/ HTTP/1.1" 200 339
+"GET /api/status/ HTTP/1.1" 200 340
+C:\Users\abhik\Downloads\traveling\simplified_travel_ai\backend\api\ai_agent.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\abhik\Downloads\traveling\simplified_travel_ai\backend\backend\settings.py changed, reloading.
+Watching for file changes with StatReloader
+Initializing Enhanced RAG System...
+Enhanced Travel RAG system initialized
+Loading and indexing travel dataset...
+Loaded 1160 travel documents
+Error creating BM25 index: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\abhik/nltk_data'
+    - 'C:\\Users\\abhik\\AppData\\Local\\Programs\\Python\\Python313\\nltk_data'
+    - 'C:\\Users\\abhik\\AppData\\Local\\Programs\\Python\\Python313\\share\\nltk_data'
+    - 'C:\\Users\\abhik\\AppData\\Local\\Programs\\Python\\Python313\\lib\\nltk_data'
+    - 'C:\\Users\\abhik\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+Error loading and indexing data: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\abhik/nltk_data'
+    - 'C:\\Users\\abhik\\AppData\\Local\\Programs\\Python\\Python313\\nltk_data'
+    - 'C:\\Users\\abhik\\AppData\\Local\\Programs\\Python\\Python313\\share\\nltk_data'
+    - 'C:\\Users\\abhik\\AppData\\Local\\Programs\\Python\\Python313\\lib\\nltk_data'
+    - 'C:\\Users\\abhik\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+RAG system initialized with limited functionality
+Initializing Multi-Agent System...
+Enhanced Travel RAG system initialized
+Loading and indexing travel dataset...
+Loaded 1160 travel documents
+Error creating BM25 index: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\abhik/nltk_data'
+    - 'C:\\Users\\abhik\\AppData\\Local\\Programs\\Python\\Python313\\nltk_data'
+    - 'C:\\Users\\abhik\\AppData\\Local\\Programs\\Python\\Python313\\share\\nltk_data'
+    - 'C:\\Users\\abhik\\AppData\\Local\\Programs\\Python\\Python313\\lib\\nltk_data'
+    - 'C:\\Users\\abhik\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+Error loading and indexing data: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\abhik/nltk_data'
+    - 'C:\\Users\\abhik\\AppData\\Local\\Programs\\Python\\Python313\\nltk_data'
+    - 'C:\\Users\\abhik\\AppData\\Local\\Programs\\Python\\Python313\\share\\nltk_data'
+    - 'C:\\Users\\abhik\\AppData\\Local\\Programs\\Python\\Python313\\lib\\nltk_data'
+    - 'C:\\Users\\abhik\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+Multi-Agent system initialized successfully
+Production Travel AI Agent initialized with enhanced capabilities
+System status error: 'TravelAIAgent' object has no attribute 'travel_knowledge'
+Internal Server Error: /api/status/
+"GET /api/status/ HTTP/1.1" 500 109
+System status error: 'TravelAIAgent' object has no attribute 'travel_knowledge'
+Internal Server Error: /api/status/
+"GET /api/status/ HTTP/1.1" 500 109
+System status error: 'TravelAIAgent' object has no attribute 'travel_knowledge'
+Internal Server Error: /api/status/
+"GET /api/status/ HTTP/1.1" 500 109
+System status error: 'TravelAIAgent' object has no attribute 'travel_knowledge'
+Internal Server Error: /api/status/
+"GET /api/status/ HTTP/1.1" 500 109
+System status error: 'TravelAIAgent' object has no attribute 'travel_knowledge'
+Internal Server Error: /api/status/
+"GET /api/status/ HTTP/1.1" 500 109
+System status error: 'TravelAIAgent' object has no attribute 'travel_knowledge'
+Internal Server Error: /api/status/
+"GET /api/status/ HTTP/1.1" 500 109
+System status error: 'TravelAIAgent' object has no attribute 'travel_knowledge'
+Internal Server Error: /api/status/
+"GET /api/status/ HTTP/1.1" 500 109
+System status error: 'TravelAIAgent' object has no attribute 'travel_knowledge'
+Internal Server Error: /api/status/
+"GET /api/status/ HTTP/1.1" 500 109
+System status error: 'TravelAIAgent' object has no attribute 'travel_knowledge'
+Internal Server Error: /api/status/
+"GET /api/status/ HTTP/1.1" 500 109
+System status error: 'TravelAIAgent' object has no attribute 'travel_knowledge'
+Internal Server Error: /api/status/
+"GET /api/status/ HTTP/1.1" 500 109
+System status error: 'TravelAIAgent' object has no attribute 'travel_knowledge'
+Internal Server Error: /api/status/
+"GET /api/status/ HTTP/1.1" 500 109
+System status error: 'TravelAIAgent' object has no attribute 'travel_knowledge'
+Internal Server Error: /api/status/
+"GET /api/status/ HTTP/1.1" 500 109
+C:\Users\abhik\Downloads\traveling\simplified_travel_ai\backend\api\enhanced_rag.py changed, reloading.
+Watching for file changes with StatReloader
+Initializing Enhanced RAG System...
+Using dataset: ./data/travel_complete_dataset.jsonl
+Enhanced Travel RAG system initialized
+Loading and indexing comprehensive travel datasets...
+Loading dataset: ./data/travel_complete_dataset.jsonl
+Error loading and indexing data: 'EnhancedTravelRAG' object has no attribute '_load_single_dataset'
+RAG system initialized with limited functionality
+Initializing Multi-Agent System...
+Using dataset: ./data/travel_complete_dataset.jsonl
+Enhanced Travel RAG system initialized
+Loading and indexing comprehensive travel datasets...
+Loading dataset: ./data/travel_complete_dataset.jsonl
+Error loading and indexing data: 'EnhancedTravelRAG' object has no attribute '_load_single_dataset'
+Multi-Agent system initialized successfully
+Production Travel AI Agent initialized with enhanced capabilities
+System status error: 'TravelAIAgent' object has no attribute 'travel_knowledge'
+Internal Server Error: /api/status/
+"GET /api/status/ HTTP/1.1" 500 109
+System status error: 'TravelAIAgent' object has no attribute 'travel_knowledge'
+Internal Server Error: /api/status/
+"GET /api/status/ HTTP/1.1" 500 109
+System status error: 'TravelAIAgent' object has no attribute 'travel_knowledge'
+Internal Server Error: /api/status/
+"GET /api/status/ HTTP/1.1" 500 109
+System status error: 'TravelAIAgent' object has no attribute 'travel_knowledge'
+Internal Server Error: /api/status/
+"GET /api/status/ HTTP/1.1" 500 109
+C:\Users\abhik\Downloads\traveling\simplified_travel_ai\backend\api\enhanced_rag.py changed, reloading.
+Watching for file changes with StatReloader
+Initializing Enhanced RAG System...
+Using dataset: ./data/travel_complete_dataset.jsonl
+Using dataset: ./data/travel_complete_dataset.jsonl
+Enhanced Travel RAG system initialized
+Loading and indexing comprehensive travel datasets...
+Loading and indexing comprehensive travel datasets...
+Loading dataset: ./data/travel_complete_dataset.jsonl
+Loading dataset: ./data/travel_complete_dataset.jsonl
+Loaded 1431 entries from travel_complete_dataset.jsonl
+Loaded sufficient data (1431 entries), stopping
+Successfully loaded 1431 travel documents from 1 datasets
+Error creating BM25 index: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\abhik/nltk_data'
+    - 'C:\\Users\\abhik\\AppData\\Local\\Programs\\Python\\Python313\\nltk_data'
+    - 'C:\\Users\\abhik\\AppData\\Local\\Programs\\Python\\Python313\\share\\nltk_data'
+    - 'C:\\Users\\abhik\\AppData\\Local\\Programs\\Python\\Python313\\lib\\nltk_data'
+    - 'C:\\Users\\abhik\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+Error loading and indexing data: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\abhik/nltk_data'
+    - 'C:\\Users\\abhik\\AppData\\Local\\Programs\\Python\\Python313\\nltk_data'
+    - 'C:\\Users\\abhik\\AppData\\Local\\Programs\\Python\\Python313\\share\\nltk_data'
+    - 'C:\\Users\\abhik\\AppData\\Local\\Programs\\Python\\Python313\\lib\\nltk_data'
+    - 'C:\\Users\\abhik\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+Loaded 1431 entries from travel_complete_dataset.jsonl
+Loaded sufficient data (1431 entries), stopping
+Successfully loaded 1431 travel documents from 1 datasets
+Error creating BM25 index: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\abhik/nltk_data'
+    - 'C:\\Users\\abhik\\AppData\\Local\\Programs\\Python\\Python313\\nltk_data'
+    - 'C:\\Users\\abhik\\AppData\\Local\\Programs\\Python\\Python313\\share\\nltk_data'
+    - 'C:\\Users\\abhik\\AppData\\Local\\Programs\\Python\\Python313\\lib\\nltk_data'
+    - 'C:\\Users\\abhik\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+Error loading and indexing data: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\abhik/nltk_data'
+    - 'C:\\Users\\abhik\\AppData\\Local\\Programs\\Python\\Python313\\nltk_data'
+    - 'C:\\Users\\abhik\\AppData\\Local\\Programs\\Python\\Python313\\share\\nltk_data'
+    - 'C:\\Users\\abhik\\AppData\\Local\\Programs\\Python\\Python313\\lib\\nltk_data'
+    - 'C:\\Users\\abhik\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+RAG system initialized with limited functionality
+Initializing Multi-Agent System...
+Using dataset: ./data/travel_complete_dataset.jsonl
+Enhanced Travel RAG system initialized
+Loading and indexing comprehensive travel datasets...
+Loading dataset: ./data/travel_complete_dataset.jsonl
+Using dataset: ./data/travel_complete_dataset.jsonl
+Enhanced Travel RAG system initialized
+Loading and indexing comprehensive travel datasets...
+Loading dataset: ./data/travel_complete_dataset.jsonl
+Loaded 1431 entries from travel_complete_dataset.jsonl
+Loaded sufficient data (1431 entries), stopping
+Successfully loaded 1431 travel documents from 1 datasets
+Error creating BM25 index: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\abhik/nltk_data'
+    - 'C:\\Users\\abhik\\AppData\\Local\\Programs\\Python\\Python313\\nltk_data'
+    - 'C:\\Users\\abhik\\AppData\\Local\\Programs\\Python\\Python313\\share\\nltk_data'
+    - 'C:\\Users\\abhik\\AppData\\Local\\Programs\\Python\\Python313\\lib\\nltk_data'
+    - 'C:\\Users\\abhik\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+Error loading and indexing data: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\abhik/nltk_data'
+    - 'C:\\Users\\abhik\\AppData\\Local\\Programs\\Python\\Python313\\nltk_data'
+    - 'C:\\Users\\abhik\\AppData\\Local\\Programs\\Python\\Python313\\share\\nltk_data'
+    - 'C:\\Users\\abhik\\AppData\\Local\\Programs\\Python\\Python313\\lib\\nltk_data'
+    - 'C:\\Users\\abhik\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+Multi-Agent system initialized successfully
+Production Travel AI Agent initialized with enhanced capabilities
+Loaded 1431 entries from travel_complete_dataset.jsonl
+Loaded sufficient data (1431 entries), stopping
+Successfully loaded 1431 travel documents from 1 datasets
+Error creating BM25 index: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\abhik/nltk_data'
+    - 'C:\\Users\\abhik\\AppData\\Local\\Programs\\Python\\Python313\\nltk_data'
+    - 'C:\\Users\\abhik\\AppData\\Local\\Programs\\Python\\Python313\\share\\nltk_data'
+    - 'C:\\Users\\abhik\\AppData\\Local\\Programs\\Python\\Python313\\lib\\nltk_data'
+    - 'C:\\Users\\abhik\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+Error loading and indexing data: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\abhik/nltk_data'
+    - 'C:\\Users\\abhik\\AppData\\Local\\Programs\\Python\\Python313\\nltk_data'
+    - 'C:\\Users\\abhik\\AppData\\Local\\Programs\\Python\\Python313\\share\\nltk_data'
+    - 'C:\\Users\\abhik\\AppData\\Local\\Programs\\Python\\Python313\\lib\\nltk_data'
+    - 'C:\\Users\\abhik\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+[coordinator] Coordinating request
+[research] Researching: Plan a comprehensive 2-week cultural trip to India...
+[planning] Planning trip: Plan a comprehensive 2-week cultural trip to India...
+Initializing Enhanced RAG System...
+Using dataset: ./data/travel_complete_dataset.jsonl
+Enhanced Travel RAG system initialized
+Loading and indexing comprehensive travel datasets...
+Loading dataset: ./data/travel_complete_dataset.jsonl
+Loaded 1431 entries from travel_complete_dataset.jsonl
+Loaded sufficient data (1431 entries), stopping
+Successfully loaded 1431 travel documents from 1 datasets
+Error creating BM25 index: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\abhik/nltk_data'
+    - 'C:\\Users\\abhik\\AppData\\Local\\Programs\\Python\\Python313\\nltk_data'
+    - 'C:\\Users\\abhik\\AppData\\Local\\Programs\\Python\\Python313\\share\\nltk_data'
+    - 'C:\\Users\\abhik\\AppData\\Local\\Programs\\Python\\Python313\\lib\\nltk_data'
+    - 'C:\\Users\\abhik\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+Error loading and indexing data: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\abhik/nltk_data'
+    - 'C:\\Users\\abhik\\AppData\\Local\\Programs\\Python\\Python313\\nltk_data'
+    - 'C:\\Users\\abhik\\AppData\\Local\\Programs\\Python\\Python313\\share\\nltk_data'
+    - 'C:\\Users\\abhik\\AppData\\Local\\Programs\\Python\\Python313\\lib\\nltk_data'
+    - 'C:\\Users\\abhik\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+RAG system initialized with limited functionality
+Initializing Multi-Agent System...
+Using dataset: ./data/travel_complete_dataset.jsonl
+Enhanced Travel RAG system initialized
+Loading and indexing comprehensive travel datasets...
+Loading dataset: ./data/travel_complete_dataset.jsonl
+Loaded 1431 entries from travel_complete_dataset.jsonl
+Loaded sufficient data (1431 entries), stopping
+Successfully loaded 1431 travel documents from 1 datasets
+Error creating BM25 index: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\abhik/nltk_data'
+    - 'C:\\Users\\abhik\\AppData\\Local\\Programs\\Python\\Python313\\nltk_data'
+    - 'C:\\Users\\abhik\\AppData\\Local\\Programs\\Python\\Python313\\share\\nltk_data'
+    - 'C:\\Users\\abhik\\AppData\\Local\\Programs\\Python\\Python313\\lib\\nltk_data'
+    - 'C:\\Users\\abhik\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+Error loading and indexing data: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\abhik/nltk_data'
+    - 'C:\\Users\\abhik\\AppData\\Local\\Programs\\Python\\Python313\\nltk_data'
+    - 'C:\\Users\\abhik\\AppData\\Local\\Programs\\Python\\Python313\\share\\nltk_data'
+    - 'C:\\Users\\abhik\\AppData\\Local\\Programs\\Python\\Python313\\lib\\nltk_data'
+    - 'C:\\Users\\abhik\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+Multi-Agent system initialized successfully
+Production Travel AI Agent initialized with enhanced capabilities
+AI Agent error: 'TravelAIAgent' object has no attribute 'travel_knowledge'
+AI Agent error: 'TravelAIAgent' object has no attribute 'travel_knowledge'
+AI Agent error: 'TravelAIAgent' object has no attribute 'travel_knowledge'
+Initializing Enhanced RAG System...
+Using dataset: ./data/travel_complete_dataset.jsonl
+Enhanced Travel RAG system initialized
+Loading and indexing comprehensive travel datasets...
+Loading dataset: ./data/travel_complete_dataset.jsonl
+Loaded 1431 entries from travel_complete_dataset.jsonl
+Loaded sufficient data (1431 entries), stopping
+Successfully loaded 1431 travel documents from 1 datasets
+Error creating BM25 index: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\abhik/nltk_data'
+    - 'C:\\Users\\abhik\\AppData\\Local\\Programs\\Python\\Python313\\nltk_data'
+    - 'C:\\Users\\abhik\\AppData\\Local\\Programs\\Python\\Python313\\share\\nltk_data'
+    - 'C:\\Users\\abhik\\AppData\\Local\\Programs\\Python\\Python313\\lib\\nltk_data'
+    - 'C:\\Users\\abhik\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+Error loading and indexing data: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\abhik/nltk_data'
+    - 'C:\\Users\\abhik\\AppData\\Local\\Programs\\Python\\Python313\\nltk_data'
+    - 'C:\\Users\\abhik\\AppData\\Local\\Programs\\Python\\Python313\\share\\nltk_data'
+    - 'C:\\Users\\abhik\\AppData\\Local\\Programs\\Python\\Python313\\lib\\nltk_data'
+    - 'C:\\Users\\abhik\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+RAG system initialized with limited functionality
+Initializing Multi-Agent System...
+Using dataset: ./data/travel_complete_dataset.jsonl
+Enhanced Travel RAG system initialized
+Loading and indexing comprehensive travel datasets...
+Loading dataset: ./data/travel_complete_dataset.jsonl
+Loaded 1431 entries from travel_complete_dataset.jsonl
+Loaded sufficient data (1431 entries), stopping
+Successfully loaded 1431 travel documents from 1 datasets
+Error creating BM25 index: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\abhik/nltk_data'
+    - 'C:\\Users\\abhik\\AppData\\Local\\Programs\\Python\\Python313\\nltk_data'
+    - 'C:\\Users\\abhik\\AppData\\Local\\Programs\\Python\\Python313\\share\\nltk_data'
+    - 'C:\\Users\\abhik\\AppData\\Local\\Programs\\Python\\Python313\\lib\\nltk_data'
+    - 'C:\\Users\\abhik\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+Error loading and indexing data: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\abhik/nltk_data'
+    - 'C:\\Users\\abhik\\AppData\\Local\\Programs\\Python\\Python313\\nltk_data'
+    - 'C:\\Users\\abhik\\AppData\\Local\\Programs\\Python\\Python313\\share\\nltk_data'
+    - 'C:\\Users\\abhik\\AppData\\Local\\Programs\\Python\\Python313\\lib\\nltk_data'
+    - 'C:\\Users\\abhik\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+Multi-Agent system initialized successfully
+Production Travel AI Agent initialized with enhanced capabilities
+Initializing Enhanced RAG System...
+Using dataset: ./data/travel_complete_dataset.jsonl
+Enhanced Travel RAG system initialized
+Loading and indexing comprehensive travel datasets...
+Loading dataset: ./data/travel_complete_dataset.jsonl
+Loaded 1431 entries from travel_complete_dataset.jsonl
+Loaded sufficient data (1431 entries), stopping
+Successfully loaded 1431 travel documents from 1 datasets
+Error creating BM25 index: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\abhik/nltk_data'
+    - 'C:\\Users\\abhik\\AppData\\Local\\Programs\\Python\\Python313\\nltk_data'
+    - 'C:\\Users\\abhik\\AppData\\Local\\Programs\\Python\\Python313\\share\\nltk_data'
+    - 'C:\\Users\\abhik\\AppData\\Local\\Programs\\Python\\Python313\\lib\\nltk_data'
+    - 'C:\\Users\\abhik\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+Error loading and indexing data: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\abhik/nltk_data'
+    - 'C:\\Users\\abhik\\AppData\\Local\\Programs\\Python\\Python313\\nltk_data'
+    - 'C:\\Users\\abhik\\AppData\\Local\\Programs\\Python\\Python313\\share\\nltk_data'
+    - 'C:\\Users\\abhik\\AppData\\Local\\Programs\\Python\\Python313\\lib\\nltk_data'
+    - 'C:\\Users\\abhik\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+RAG system initialized with limited functionality
+Initializing Multi-Agent System...
+Using dataset: ./data/travel_complete_dataset.jsonl
+Enhanced Travel RAG system initialized
+Loading and indexing comprehensive travel datasets...
+Loading dataset: ./data/travel_complete_dataset.jsonl
+Loaded 1431 entries from travel_complete_dataset.jsonl
+Loaded sufficient data (1431 entries), stopping
+Successfully loaded 1431 travel documents from 1 datasets
+Error creating BM25 index: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\abhik/nltk_data'
+    - 'C:\\Users\\abhik\\AppData\\Local\\Programs\\Python\\Python313\\nltk_data'
+    - 'C:\\Users\\abhik\\AppData\\Local\\Programs\\Python\\Python313\\share\\nltk_data'
+    - 'C:\\Users\\abhik\\AppData\\Local\\Programs\\Python\\Python313\\lib\\nltk_data'
+    - 'C:\\Users\\abhik\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+Error loading and indexing data: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\abhik/nltk_data'
+    - 'C:\\Users\\abhik\\AppData\\Local\\Programs\\Python\\Python313\\nltk_data'
+    - 'C:\\Users\\abhik\\AppData\\Local\\Programs\\Python\\Python313\\share\\nltk_data'
+    - 'C:\\Users\\abhik\\AppData\\Local\\Programs\\Python\\Python313\\lib\\nltk_data'
+    - 'C:\\Users\\abhik\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+Multi-Agent system initialized successfully
+Production Travel AI Agent initialized with enhanced capabilities
+C:\Users\abhik\Downloads\traveling\simplified_travel_ai\backend\api\ai_agent.py changed, reloading.
+Watching for file changes with StatReloader
+Initializing Enhanced RAG System...
+Using dataset: ./data/travel_complete_dataset.jsonl
+Enhanced Travel RAG system initialized
+Loading and indexing comprehensive travel datasets...
+Loading dataset: ./data/travel_complete_dataset.jsonl
+Loaded 1431 entries from travel_complete_dataset.jsonl
+Loaded sufficient data (1431 entries), stopping
+Successfully loaded 1431 travel documents from 1 datasets
+Error creating BM25 index: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\abhik/nltk_data'
+    - 'C:\\Users\\abhik\\AppData\\Local\\Programs\\Python\\Python313\\nltk_data'
+    - 'C:\\Users\\abhik\\AppData\\Local\\Programs\\Python\\Python313\\share\\nltk_data'
+    - 'C:\\Users\\abhik\\AppData\\Local\\Programs\\Python\\Python313\\lib\\nltk_data'
+    - 'C:\\Users\\abhik\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+Error loading and indexing data: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\abhik/nltk_data'
+    - 'C:\\Users\\abhik\\AppData\\Local\\Programs\\Python\\Python313\\nltk_data'
+    - 'C:\\Users\\abhik\\AppData\\Local\\Programs\\Python\\Python313\\share\\nltk_data'
+    - 'C:\\Users\\abhik\\AppData\\Local\\Programs\\Python\\Python313\\lib\\nltk_data'
+    - 'C:\\Users\\abhik\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+RAG system initialized with limited functionality
+Initializing Multi-Agent System...
+Using dataset: ./data/travel_complete_dataset.jsonl
+Enhanced Travel RAG system initialized
+Loading and indexing comprehensive travel datasets...
+Loading dataset: ./data/travel_complete_dataset.jsonl
+Loaded 1431 entries from travel_complete_dataset.jsonl
+Loaded sufficient data (1431 entries), stopping
+Successfully loaded 1431 travel documents from 1 datasets
+Error creating BM25 index: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\abhik/nltk_data'
+    - 'C:\\Users\\abhik\\AppData\\Local\\Programs\\Python\\Python313\\nltk_data'
+    - 'C:\\Users\\abhik\\AppData\\Local\\Programs\\Python\\Python313\\share\\nltk_data'
+    - 'C:\\Users\\abhik\\AppData\\Local\\Programs\\Python\\Python313\\lib\\nltk_data'
+    - 'C:\\Users\\abhik\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+Error loading and indexing data: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\abhik/nltk_data'
+    - 'C:\\Users\\abhik\\AppData\\Local\\Programs\\Python\\Python313\\nltk_data'
+    - 'C:\\Users\\abhik\\AppData\\Local\\Programs\\Python\\Python313\\share\\nltk_data'
+    - 'C:\\Users\\abhik\\AppData\\Local\\Programs\\Python\\Python313\\lib\\nltk_data'
+    - 'C:\\Users\\abhik\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+Multi-Agent system initialized successfully
+Production Travel AI Agent initialized with enhanced capabilities
+"GET /api/status/ HTTP/1.1" 200 345
+"GET /api/status/ HTTP/1.1" 200 345
+"GET /api/status/ HTTP/1.1" 200 345
+"GET /api/status/ HTTP/1.1" 200 345
+Using dataset: ./data/travel_complete_dataset.jsonl
+Enhanced Travel RAG system initialized
+Loading and indexing comprehensive travel datasets...
+Loading dataset: ./data/travel_complete_dataset.jsonl
+Loaded 1431 entries from travel_complete_dataset.jsonl
+Loaded sufficient data (1431 entries), stopping
+Successfully loaded 1431 travel documents from 1 datasets
+"GET /api/status/ HTTP/1.1" 200 345
+"GET /api/status/ HTTP/1.1" 200 345
+"GET /api/status/ HTTP/1.1" 200 345
+"GET /api/status/ HTTP/1.1" 200 345
+BM25 index created successfully
+Indexing completed successfully
+Using dataset: ./data/travel_complete_dataset.jsonl
+Enhanced Travel RAG system initialized
+Loading and indexing comprehensive travel datasets...
+Loading dataset: ./data/travel_complete_dataset.jsonl
+Loaded 1431 entries from travel_complete_dataset.jsonl
+Loaded sufficient data (1431 entries), stopping
+Successfully loaded 1431 travel documents from 1 datasets
+BM25 index created successfully
+Indexing completed successfully
+[coordinator] Coordinating request
+[research] Researching: Plan a comprehensive 2-week cultural trip to India...
+[planning] Planning trip: Plan a comprehensive 2-week cultural trip to India...
+Initializing Enhanced RAG System...
+Using dataset: ./data/travel_complete_dataset.jsonl
+Enhanced Travel RAG system initialized
+Loading and indexing comprehensive travel datasets...
+Loading dataset: ./data/travel_complete_dataset.jsonl
+Loaded 1431 entries from travel_complete_dataset.jsonl
+Loaded sufficient data (1431 entries), stopping
+Successfully loaded 1431 travel documents from 1 datasets
+BM25 index created successfully
+Indexing completed successfully
+RAG system initialized successfully
+Initializing Multi-Agent System...
+Using dataset: ./data/travel_complete_dataset.jsonl
+Enhanced Travel RAG system initialized
+Loading and indexing comprehensive travel datasets...
+Loading dataset: ./data/travel_complete_dataset.jsonl
+Loaded 1431 entries from travel_complete_dataset.jsonl
+Loaded sufficient data (1431 entries), stopping
+Successfully loaded 1431 travel documents from 1 datasets
+BM25 index created successfully
+Indexing completed successfully
+Multi-Agent system initialized successfully
+Production Travel AI Agent initialized with enhanced capabilities
+Processing request - Intent: general, Complexity: complex
+Using multi-agent system for complex query
+[coordinator] Coordinating request
+[research] Researching: Hello, I need help planning a trip...
+[planning] Planning trip: Hello, I need help planning a trip...
+Processing request - Intent: general, Complexity: medium
+Using enhanced RAG system
+Processing request - Intent: general, Complexity: complex
+Using multi-agent system for complex query
+[coordinator] Coordinating request
+[research] Researching: Plan a detailed 3-week multi-country adventure tri...
+[planning] Planning trip: Plan a detailed 3-week multi-country adventure tri...
+Initializing Enhanced RAG System...
+Using dataset: ./data/travel_complete_dataset.jsonl
+Enhanced Travel RAG system initialized
+Loading and indexing comprehensive travel datasets...
+Loading dataset: ./data/travel_complete_dataset.jsonl
+Loaded 1431 entries from travel_complete_dataset.jsonl
+Loaded sufficient data (1431 entries), stopping
+Successfully loaded 1431 travel documents from 1 datasets
+BM25 index created successfully
+Indexing completed successfully
+RAG system initialized successfully
+Initializing Multi-Agent System...
+Using dataset: ./data/travel_complete_dataset.jsonl
+Enhanced Travel RAG system initialized
+Loading and indexing comprehensive travel datasets...
+Loading dataset: ./data/travel_complete_dataset.jsonl
+Loaded 1431 entries from travel_complete_dataset.jsonl
+Loaded sufficient data (1431 entries), stopping
+Successfully loaded 1431 travel documents from 1 datasets
+BM25 index created successfully
+Indexing completed successfully
+Multi-Agent system initialized successfully
+Production Travel AI Agent initialized with enhanced capabilities
+Initializing Enhanced RAG System...
+Using dataset: ./data/travel_complete_dataset.jsonl
+Enhanced Travel RAG system initialized
+Loading and indexing comprehensive travel datasets...
+Loading dataset: ./data/travel_complete_dataset.jsonl
+Loaded 1431 entries from travel_complete_dataset.jsonl
+Loaded sufficient data (1431 entries), stopping
+Successfully loaded 1431 travel documents from 1 datasets
+BM25 index created successfully
+Indexing completed successfully
+RAG system initialized successfully
+Initializing Multi-Agent System...
+Using dataset: ./data/travel_complete_dataset.jsonl
+Enhanced Travel RAG system initialized
+Loading and indexing comprehensive travel datasets...
+Loading dataset: ./data/travel_complete_dataset.jsonl
+Loaded 1431 entries from travel_complete_dataset.jsonl
+Loaded sufficient data (1431 entries), stopping
+Successfully loaded 1431 travel documents from 1 datasets
+BM25 index created successfully
+Indexing completed successfully
+Multi-Agent system initialized successfully
+Production Travel AI Agent initialized with enhanced capabilities
+"GET /api/status/ HTTP/1.1" 200 345
+"GET /api/status/ HTTP/1.1" 200 343
+"GET /api/status/ HTTP/1.1" 200 345
+"GET /api/status/ HTTP/1.1" 200 345
+"GET /api/status/ HTTP/1.1" 200 345
+"GET /api/status/ HTTP/1.1" 200 344
+"GET /api/status/ HTTP/1.1" 200 344
+"GET /api/status/ HTTP/1.1" 200 344
+"GET /api/status/ HTTP/1.1" 200 345
+"GET /api/status/ HTTP/1.1" 200 345
+"GET /api/status/ HTTP/1.1" 200 344
+"GET /api/status/ HTTP/1.1" 200 345
+"GET /api/status/ HTTP/1.1" 200 344
+"GET /api/status/ HTTP/1.1" 200 345
+"GET /api/status/ HTTP/1.1" 200 345
+"GET /api/status/ HTTP/1.1" 200 345
+C:\Users\abhik\AppData\Local\Programs\Python\Python313\Lib\site-packages\pytz\tzinfo.py changed, reloading.
+Watching for file changes with StatReloader
+Initializing Enhanced RAG System...
+Using dataset: ./data/travel_complete_dataset.jsonl
+Enhanced Travel RAG system initialized
+Loading and indexing comprehensive travel datasets...
+Loading dataset: ./data/travel_complete_dataset.jsonl
+Loaded 1431 entries from travel_complete_dataset.jsonl
+Loaded sufficient data (1431 entries), stopping
+Successfully loaded 1431 travel documents from 1 datasets
+BM25 index created successfully
+Indexing completed successfully
+RAG system initialized successfully
+Initializing Multi-Agent System...
+Using dataset: ./data/travel_complete_dataset.jsonl
+Enhanced Travel RAG system initialized
+Loading and indexing comprehensive travel datasets...
+Loading dataset: ./data/travel_complete_dataset.jsonl
+Loaded 1431 entries from travel_complete_dataset.jsonl
+Loaded sufficient data (1431 entries), stopping
+Successfully loaded 1431 travel documents from 1 datasets
+BM25 index created successfully
+Indexing completed successfully
+Multi-Agent system initialized successfully
+Production Travel AI Agent initialized with enhanced capabilities
+"GET /api/status/ HTTP/1.1" 200 345
+"GET /api/status/ HTTP/1.1" 200 345
+"GET /api/status/ HTTP/1.1" 200 345
+"GET /api/status/ HTTP/1.1" 200 344
+"GET /api/status/ HTTP/1.1" 200 345
+"GET /api/status/ HTTP/1.1" 200 345
+"GET /api/status/ HTTP/1.1" 200 345
+"GET /api/status/ HTTP/1.1" 200 345
+"GET /api/status/ HTTP/1.1" 200 345
+"GET /api/status/ HTTP/1.1" 200 344
+"GET /api/status/ HTTP/1.1" 200 345
+"GET /api/status/ HTTP/1.1" 200 345
+C:\Users\abhik\Downloads\traveling\simplified_travel_ai\backend\api\ai_agent.py changed, reloading.
+Watching for file changes with StatReloader
+Anthropic LLM client initialized
+Initializing Enhanced RAG System...
+Using dataset: ./data/travel_complete_dataset.jsonl
+Enhanced Travel RAG system initialized
+Loading and indexing comprehensive travel datasets...
+Loading dataset: ./data/travel_complete_dataset.jsonl
+Loaded 1431 entries from travel_complete_dataset.jsonl
+Loaded sufficient data (1431 entries), stopping
+Successfully loaded 1431 travel documents from 1 datasets
+BM25 index created successfully
+Indexing completed successfully
+RAG system initialized successfully
+Initializing Multi-Agent System...
+Using dataset: ./data/travel_complete_dataset.jsonl
+Enhanced Travel RAG system initialized
+Loading and indexing comprehensive travel datasets...
+Loading dataset: ./data/travel_complete_dataset.jsonl
+Loaded 1431 entries from travel_complete_dataset.jsonl
+Loaded sufficient data (1431 entries), stopping
+Successfully loaded 1431 travel documents from 1 datasets
+BM25 index created successfully
+Indexing completed successfully
+Multi-Agent system initialized successfully
+Production Travel AI Agent initialized with enhanced capabilities
+"GET /api/status/ HTTP/1.1" 200 345
+"GET /api/status/ HTTP/1.1" 200 345
+"GET /api/status/ HTTP/1.1" 200 345
+"GET /api/status/ HTTP/1.1" 200 345
+"GET /api/status/ HTTP/1.1" 200 344
+"GET /api/status/ HTTP/1.1" 200 344
+"GET /api/status/ HTTP/1.1" 200 345
+"GET /api/status/ HTTP/1.1" 200 345
+Using dataset: ./data/travel_complete_dataset.jsonl
+Enhanced Travel RAG system initialized
+Loading and indexing comprehensive travel datasets...
+Loading dataset: ./data/travel_complete_dataset.jsonl
+Loaded 1431 entries from travel_complete_dataset.jsonl
+Loaded sufficient data (1431 entries), stopping
+Successfully loaded 1431 travel documents from 1 datasets
+BM25 index created successfully
+Indexing completed successfully
+Using Anthropic LLM for CrewAI agents
+Error initializing tools: "TravelDatabaseTool" object has no field "rag_system"
+Cannot create CrewAI agents - missing dependencies
+Cannot create CrewAI crew - missing agents
+CrewAI Travel System initialized successfully
+Using dataset: ./data/travel_complete_dataset.jsonl
+Enhanced Travel RAG system initialized
+Loading and indexing comprehensive travel datasets...
+Loading dataset: ./data/travel_complete_dataset.jsonl
+Loaded 1431 entries from travel_complete_dataset.jsonl
+Loaded sufficient data (1431 entries), stopping
+Successfully loaded 1431 travel documents from 1 datasets
+BM25 index created successfully
+Indexing completed successfully
+[coordinator] Coordinating request
+[research] Researching: Plan a comprehensive 2-week cultural trip to India...
+[planning] Planning trip: Plan a comprehensive 2-week cultural trip to India...
+Anthropic LLM client initialized
+Initializing Enhanced RAG System...
+Using dataset: ./data/travel_complete_dataset.jsonl
+Enhanced Travel RAG system initialized
+Loading and indexing comprehensive travel datasets...
+Loading dataset: ./data/travel_complete_dataset.jsonl
+Loaded 1431 entries from travel_complete_dataset.jsonl
+Loaded sufficient data (1431 entries), stopping
+Successfully loaded 1431 travel documents from 1 datasets
+BM25 index created successfully
+Indexing completed successfully
+RAG system initialized successfully
+Initializing CrewAI Multi-Agent System...
+Using Anthropic LLM for CrewAI agents
+Error initializing tools: "TravelDatabaseTool" object has no field "rag_system"
+Cannot create CrewAI agents - missing dependencies
+Cannot create CrewAI crew - missing agents
+CrewAI Travel System initialized successfully
+CrewAI system initialized successfully
+Production Travel AI Agent initialized with enhanced capabilities
+Processing request - Intent: general, Complexity: complex
+Using CrewAI multi-agent system for complex query
+CrewAI system failed, falling back to custom multi-agent
+Using enhanced RAG system
+Processing request - Intent: general, Complexity: medium
+Using enhanced RAG system
+Processing request - Intent: general, Complexity: complex
+Using CrewAI multi-agent system for complex query
+CrewAI system failed, falling back to custom multi-agent
+Using enhanced RAG system
+Anthropic LLM client initialized
+Initializing Enhanced RAG System...
+Using dataset: ./data/travel_complete_dataset.jsonl
+Enhanced Travel RAG system initialized
+Loading and indexing comprehensive travel datasets...
+Loading dataset: ./data/travel_complete_dataset.jsonl
+Loaded 1431 entries from travel_complete_dataset.jsonl
+Loaded sufficient data (1431 entries), stopping
+Successfully loaded 1431 travel documents from 1 datasets
+"GET /api/status/ HTTP/1.1" 200 344
+"GET /api/status/ HTTP/1.1" 200 345
+"GET /api/status/ HTTP/1.1" 200 344
+"GET /api/status/ HTTP/1.1" 200 345
+BM25 index created successfully
+Indexing completed successfully
+RAG system initialized successfully
+Initializing CrewAI Multi-Agent System...
+Using Anthropic LLM for CrewAI agents
+Error initializing tools: "TravelDatabaseTool" object has no field "rag_system"
+Cannot create CrewAI agents - missing dependencies
+Cannot create CrewAI crew - missing agents
+CrewAI Travel System initialized successfully
+CrewAI system initialized successfully
+Production Travel AI Agent initialized with enhanced capabilities
+Anthropic LLM client initialized
+Initializing Enhanced RAG System...
+Using dataset: ./data/travel_complete_dataset.jsonl
+Enhanced Travel RAG system initialized
+Loading and indexing comprehensive travel datasets...
+Loading dataset: ./data/travel_complete_dataset.jsonl
+Loaded 1431 entries from travel_complete_dataset.jsonl
+Loaded sufficient data (1431 entries), stopping
+Successfully loaded 1431 travel documents from 1 datasets
+BM25 index created successfully
+Indexing completed successfully
+RAG system initialized successfully
+Initializing CrewAI Multi-Agent System...
+Using Anthropic LLM for CrewAI agents
+Error initializing tools: "TravelDatabaseTool" object has no field "rag_system"
+Cannot create CrewAI agents - missing dependencies
+Cannot create CrewAI crew - missing agents
+CrewAI Travel System initialized successfully
+CrewAI system initialized successfully
+Production Travel AI Agent initialized with enhanced capabilities
+C:\Users\abhik\Downloads\traveling\simplified_travel_ai\backend\api\crewai_system.py changed, reloading.
+Watching for file changes with StatReloader
+Anthropic LLM client initialized
+Initializing Enhanced RAG System...
+Using dataset: ./data/travel_complete_dataset.jsonl
+Enhanced Travel RAG system initialized
+Loading and indexing comprehensive travel datasets...
+Loading dataset: ./data/travel_complete_dataset.jsonl
+Loaded 1431 entries from travel_complete_dataset.jsonl
+Loaded sufficient data (1431 entries), stopping
+Successfully loaded 1431 travel documents from 1 datasets
+BM25 index created successfully
+Indexing completed successfully
+RAG system initialized successfully
+Initializing CrewAI Multi-Agent System...
+Using Anthropic LLM for CrewAI agents
+Using dataset: ./data/travel_complete_dataset.jsonl
+Enhanced Travel RAG system initialized
+Loading and indexing comprehensive travel datasets...
+Loading dataset: ./data/travel_complete_dataset.jsonl
+Loaded 1431 entries from travel_complete_dataset.jsonl
+Loaded sufficient data (1431 entries), stopping
+Successfully loaded 1431 travel documents from 1 datasets
+BM25 index created successfully
+Indexing completed successfully
+Initialized 1 tools for CrewAI agents
+Cannot create CrewAI agents - missing dependencies
+Cannot create CrewAI crew - missing agents
+CrewAI Travel System initialized successfully
+CrewAI system initialized successfully
+Production Travel AI Agent initialized with enhanced capabilities
+C:\Users\abhik\Downloads\traveling\simplified_travel_ai\backend\api\crewai_system.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\abhik\Downloads\traveling\simplified_travel_ai\backend\api\crewai_system.py changed, reloading.
+Watching for file changes with StatReloader
+CrewAI successfully imported
+CrewAI tools not available
+Anthropic LLM client initialized
+Initializing Enhanced RAG System...
+Using dataset: ./data/travel_complete_dataset.jsonl
+Enhanced Travel RAG system initialized
+Loading and indexing comprehensive travel datasets...
+Loading dataset: ./data/travel_complete_dataset.jsonl
+Loaded 1431 entries from travel_complete_dataset.jsonl
+Loaded sufficient data (1431 entries), stopping
+Successfully loaded 1431 travel documents from 1 datasets
+BM25 index created successfully
+Indexing completed successfully
+RAG system initialized successfully
+Initializing CrewAI Multi-Agent System...
+Using Anthropic LLM for CrewAI agents
+Using dataset: ./data/travel_complete_dataset.jsonl
+Enhanced Travel RAG system initialized
+Loading and indexing comprehensive travel datasets...
+Loading dataset: ./data/travel_complete_dataset.jsonl
+Loaded 1431 entries from travel_complete_dataset.jsonl
+Loaded sufficient data (1431 entries), stopping
+Successfully loaded 1431 travel documents from 1 datasets
+BM25 index created successfully
+Indexing completed successfully
+Initialized 1 tools for CrewAI agents
+Created 3 CrewAI agents
+Error creating crew: 1 validation error for Crew
+verbose
+  Input should be a valid boolean, unable to interpret input [type=bool_parsing, input_value=2, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.9/v/bool_parsing
+CrewAI Travel System initialized successfully
+CrewAI system initialized successfully
+Production Travel AI Agent initialized with enhanced capabilities
+"GET /api/status/ HTTP/1.1" 200 344
+"GET /api/status/ HTTP/1.1" 200 345
+"GET /api/status/ HTTP/1.1" 200 345
+"GET /api/status/ HTTP/1.1" 200 345
+C:\Users\abhik\Downloads\traveling\simplified_travel_ai\backend\api\crewai_system.py changed, reloading.
+Watching for file changes with StatReloader
+CrewAI successfully imported
+CrewAI tools not available
+CrewAI successfully imported
+CrewAI tools not available
+Using dataset: ./data/travel_complete_dataset.jsonl
+Anthropic LLM client initialized
+Initializing Enhanced RAG System...
+Using dataset: ./data/travel_complete_dataset.jsonl
+Enhanced Travel RAG system initialized
+Loading and indexing comprehensive travel datasets...
+Loading dataset: ./data/travel_complete_dataset.jsonl
+Enhanced Travel RAG system initialized
+Loading and indexing comprehensive travel datasets...
+Loading dataset: ./data/travel_complete_dataset.jsonl
+Loaded 1431 entries from travel_complete_dataset.jsonl
+Loaded sufficient data (1431 entries), stopping
+Successfully loaded 1431 travel documents from 1 datasets
+Loaded 1431 entries from travel_complete_dataset.jsonl
+Loaded sufficient data (1431 entries), stopping
+Successfully loaded 1431 travel documents from 1 datasets
+BM25 index created successfully
+Indexing completed successfully
+BM25 index created successfully
+Indexing completed successfully
+RAG system initialized successfully
+Initializing CrewAI Multi-Agent System...
+Using Anthropic LLM for CrewAI agents
+Using Anthropic LLM for CrewAI agents
+Using dataset: ./data/travel_complete_dataset.jsonl
+Enhanced Travel RAG system initialized
+Enhanced Travel RAG system initialized
+Loading and indexing comprehensive travel datasets...
+Loading and indexing comprehensive travel datasets...
+Loading dataset: ./data/travel_complete_dataset.jsonl
+Loading dataset: ./data/travel_complete_dataset.jsonl
+Loaded 1431 entries from travel_complete_dataset.jsonl
+Loaded sufficient data (1431 entries), stopping
+Successfully loaded 1431 travel documents from 1 datasets
+Loaded 1431 entries from travel_complete_dataset.jsonl
+Loaded sufficient data (1431 entries), stopping
+Successfully loaded 1431 travel documents from 1 datasets
+BM25 index created successfully
+Indexing completed successfully
+Initialized 1 tools for CrewAI agents
+Created 3 CrewAI agents
+BM25 index created successfully
+Indexing completed successfully
+Initialized 1 tools for CrewAI agents
+Created 3 CrewAI agents
+CrewAI crew created successfully
+CrewAI Travel System initialized successfully
+CrewAI processing error: Crew.kickoff() got an unexpected keyword argument 'tasks'
+Using dataset: ./data/travel_complete_dataset.jsonl
+CrewAI crew created successfully
+CrewAI Travel System initialized successfully
+CrewAI system initialized successfully
+Production Travel AI Agent initialized with enhanced capabilities
+Enhanced Travel RAG system initialized
+Loading and indexing comprehensive travel datasets...
+Loading dataset: ./data/travel_complete_dataset.jsonl
+Loaded 1431 entries from travel_complete_dataset.jsonl
+Loaded sufficient data (1431 entries), stopping
+Successfully loaded 1431 travel documents from 1 datasets
+"GET /api/status/ HTTP/1.1" 200 345
+"GET /api/status/ HTTP/1.1" 200 345
+"GET /api/status/ HTTP/1.1" 200 345
+"GET /api/status/ HTTP/1.1" 200 345
+"GET /api/status/ HTTP/1.1" 200 345
+"GET /api/status/ HTTP/1.1" 200 345
+"GET /api/status/ HTTP/1.1" 200 345
+"GET /api/status/ HTTP/1.1" 200 345
+"GET /api/status/ HTTP/1.1" 200 345
+"GET /api/status/ HTTP/1.1" 200 345
+"GET /api/status/ HTTP/1.1" 200 345
+"GET /api/status/ HTTP/1.1" 200 345
+"GET /api/status/ HTTP/1.1" 200 345
+"GET /api/status/ HTTP/1.1" 200 345
+"GET /api/status/ HTTP/1.1" 200 345
+"GET /api/status/ HTTP/1.1" 200 345
+"GET /api/status/ HTTP/1.1" 200 345
+"GET /api/status/ HTTP/1.1" 200 345
+"GET /api/status/ HTTP/1.1" 200 344
+C:\Users\abhik\Downloads\traveling\simplified_travel_ai\backend\api\crewai_system.py changed, reloading.
+Watching for file changes with StatReloader
+CrewAI successfully imported
+CrewAI tools not available
+Anthropic LLM client initialized
+Initializing Enhanced RAG System...
+Using dataset: ./data/travel_complete_dataset.jsonl
+Enhanced Travel RAG system initialized
+Loading and indexing comprehensive travel datasets...
+Loading dataset: ./data/travel_complete_dataset.jsonl
+Loaded 1431 entries from travel_complete_dataset.jsonl
+Loaded sufficient data (1431 entries), stopping
+Successfully loaded 1431 travel documents from 1 datasets
+BM25 index created successfully
+Indexing completed successfully
+RAG system initialized successfully
+Initializing CrewAI Multi-Agent System...
+Using Anthropic LLM for CrewAI agents
+Using dataset: ./data/travel_complete_dataset.jsonl
+Enhanced Travel RAG system initialized
+Loading and indexing comprehensive travel datasets...
+Loading dataset: ./data/travel_complete_dataset.jsonl
+Loaded 1431 entries from travel_complete_dataset.jsonl
+Loaded sufficient data (1431 entries), stopping
+Successfully loaded 1431 travel documents from 1 datasets
+BM25 index created successfully
+Indexing completed successfully
+Initialized 1 tools for CrewAI agents
+Created 3 CrewAI agents
+CrewAI crew created successfully
+CrewAI Travel System initialized successfully
+CrewAI system initialized successfully
+Production Travel AI Agent initialized with enhanced capabilities
+"GET /api/status/ HTTP/1.1" 200 345
+"GET /api/status/ HTTP/1.1" 200 345
+"GET /api/status/ HTTP/1.1" 200 345
+"GET /api/status/ HTTP/1.1" 200 345
+"GET /api/status/ HTTP/1.1" 200 345
+"GET /api/status/ HTTP/1.1" 200 344
+"GET /api/status/ HTTP/1.1" 200 345
+"GET /api/status/ HTTP/1.1" 200 345
+"GET /api/status/ HTTP/1.1" 200 345
+"GET /api/status/ HTTP/1.1" 200 345
+"GET /api/status/ HTTP/1.1" 200 344
+"GET /api/status/ HTTP/1.1" 200 345
+"GET /api/status/ HTTP/1.1" 200 345
+"GET /api/status/ HTTP/1.1" 200 345
+"GET /api/status/ HTTP/1.1" 200 345
+"GET /api/status/ HTTP/1.1" 200 345
+"GET /api/status/ HTTP/1.1" 200 345
+"GET /api/status/ HTTP/1.1" 200 345
+"GET /api/status/ HTTP/1.1" 200 345
+"GET /api/status/ HTTP/1.1" 200 345
+"GET /api/status/ HTTP/1.1" 200 345
+"GET /api/status/ HTTP/1.1" 200 345
+"GET /api/status/ HTTP/1.1" 200 344
+"GET /api/status/ HTTP/1.1" 200 345
+"GET /api/status/ HTTP/1.1" 200 345
+"GET /api/status/ HTTP/1.1" 200 345
+"GET /api/status/ HTTP/1.1" 200 345
+"GET /api/status/ HTTP/1.1" 200 345
+"GET /api/status/ HTTP/1.1" 200 345
+Processing chat request: Suggest luxury beach resorts in the Maldives for h... Session: session_1753645058
+Processing request - Intent: general, Complexity: medium
+Using enhanced RAG system
+"POST /api/chat/ HTTP/1.1" 200 19179
+"GET /api/status/ HTTP/1.1" 200 345
+"GET /api/status/ HTTP/1.1" 200 345
+"GET /api/status/ HTTP/1.1" 200 345
+"GET /api/status/ HTTP/1.1" 200 344
+"GET /api/status/ HTTP/1.1" 200 345
+"GET /api/status/ HTTP/1.1" 200 345
+"GET /api/status/ HTTP/1.1" 200 345
+"GET /api/status/ HTTP/1.1" 200 345
+"GET /api/status/ HTTP/1.1" 200 344
+"GET /api/status/ HTTP/1.1" 200 345
+"GET /api/status/ HTTP/1.1" 200 345
+"GET /api/status/ HTTP/1.1" 200 344
+C:\Users\abhik\Downloads\traveling\simplified_travel_ai\backend\api\crewai_system.py changed, reloading.
+Watching for file changes with StatReloader
+CrewAI successfully imported
+CrewAI tools not available
+Anthropic LLM client initialized
+Initializing Enhanced RAG System...
+Using dataset: ./data/travel_complete_dataset.jsonl
+Enhanced Travel RAG system initialized
+Loading and indexing comprehensive travel datasets...
+Loading dataset: ./data/travel_complete_dataset.jsonl
+Loaded 1431 entries from travel_complete_dataset.jsonl
+Loaded sufficient data (1431 entries), stopping
+Successfully loaded 1431 travel documents from 1 datasets
+BM25 index created successfully
+Indexing completed successfully
+RAG system initialized successfully
+Initializing CrewAI Multi-Agent System...
+Using Anthropic LLM for CrewAI agents
+Using dataset: ./data/travel_complete_dataset.jsonl
+Enhanced Travel RAG system initialized
+Loading and indexing comprehensive travel datasets...
+Loading dataset: ./data/travel_complete_dataset.jsonl
+Loaded 1431 entries from travel_complete_dataset.jsonl
+Loaded sufficient data (1431 entries), stopping
+Successfully loaded 1431 travel documents from 1 datasets
+BM25 index created successfully
+Indexing completed successfully
+Initialized 1 tools for CrewAI agents
+Created 3 CrewAI agents
+CrewAI crew created successfully
+CrewAI Travel System initialized successfully
+CrewAI system initialized successfully
+Production Travel AI Agent initialized with enhanced capabilities
+"GET /api/status/ HTTP/1.1" 200 345
+"GET /api/status/ HTTP/1.1" 200 345
+"GET /api/status/ HTTP/1.1" 200 345
+"GET /api/status/ HTTP/1.1" 200 345
+"GET /api/status/ HTTP/1.1" 200 345
+"GET /api/status/ HTTP/1.1" 200 345
+"GET /api/status/ HTTP/1.1" 200 345
+"GET /api/status/ HTTP/1.1" 200 345
+Using dataset: ./data/travel_complete_dataset.jsonl
+Enhanced Travel RAG system initialized
+Loading and indexing comprehensive travel datasets...
+Loading dataset: ./data/travel_complete_dataset.jsonl
+Loaded 1431 entries from travel_complete_dataset.jsonl
+Loaded sufficient data (1431 entries), stopping
+Successfully loaded 1431 travel documents from 1 datasets
+BM25 index created successfully
+Indexing completed successfully
+"GET /api/status/ HTTP/1.1" 200 345
+Using dataset: ./data/travel_complete_dataset.jsonl
+"GET /api/status/ HTTP/1.1" 200 345
+Enhanced Travel RAG system initialized
+Loading and indexing comprehensive travel datasets...
+Loading dataset: ./data/travel_complete_dataset.jsonl
+Loaded 1431 entries from travel_complete_dataset.jsonl
+Loaded sufficient data (1431 entries), stopping
+Successfully loaded 1431 travel documents from 1 datasets
+BM25 index created successfully
+Indexing completed successfully
+[coordinator] Coordinating request
+[research] Researching: Plan a 1-week romantic trip to Paris with budget c...
+[planning] Planning trip: Plan a 1-week romantic trip to Paris with budget c...
+LLM planning error: Error code: 413 - {'error': {'message': 'Request too large for model `llama3-70b-8192` in organization `org_01jzrdm93feae8wgnkvzhrq00c` service tier `on_demand` on tokens per minute (TPM): Limit 6000, Requested 20486, please reduce your message size and try again. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+CrewAI successfully imported
+CrewAI tools not available
+Groq LLM client initialized
+OpenAI LLM client initialized
+Anthropic LLM client initialized
+Initializing Enhanced RAG System...
+Using dataset: ./data/travel_complete_dataset.jsonl
+Enhanced Travel RAG system initialized
+Loading and indexing comprehensive travel datasets...
+Loading dataset: ./data/travel_complete_dataset.jsonl
+Loaded 1431 entries from travel_complete_dataset.jsonl
+Loaded sufficient data (1431 entries), stopping
+Successfully loaded 1431 travel documents from 1 datasets
+BM25 index created successfully
+Indexing completed successfully
+RAG system initialized successfully
+Initializing CrewAI Multi-Agent System...
+Using Llama-4-Scout model for CrewAI agents
+Using Groq LLM for CrewAI agents
+Using dataset: ./data/travel_complete_dataset.jsonl
+Enhanced Travel RAG system initialized
+Loading and indexing comprehensive travel datasets...
+Loading dataset: ./data/travel_complete_dataset.jsonl
+Loaded 1431 entries from travel_complete_dataset.jsonl
+Loaded sufficient data (1431 entries), stopping
+Successfully loaded 1431 travel documents from 1 datasets
+BM25 index created successfully
+Indexing completed successfully
+Initialized 1 tools for CrewAI agents
+Created 3 CrewAI agents
+CrewAI crew created successfully
+CrewAI Travel System initialized successfully
+CrewAI system initialized successfully
+Production Travel AI Agent initialized with enhanced capabilities
+Processing request - Intent: general, Complexity: simple
+Using enhanced RAG system
+Processing request - Intent: general, Complexity: medium
+Using enhanced RAG system
+Processing request - Intent: general, Complexity: complex
+Using CrewAI multi-agent system for complex query
+CrewAI processing error: Crew.kickoff() got an unexpected keyword argument 'tasks'
+CrewAI system failed, falling back to custom multi-agent
+Using enhanced RAG system
+"GET /api/status/ HTTP/1.1" 200 345
+"GET /api/status/ HTTP/1.1" 200 344
+"GET /api/status/ HTTP/1.1" 200 345
+"GET /api/status/ HTTP/1.1" 200 344
+"GET /api/status/ HTTP/1.1" 200 345
+"GET /api/status/ HTTP/1.1" 200 345
+Watching for file changes with StatReloader
+"GET /api/status/ HTTP/1.1" 200 345
+"GET /api/status/ HTTP/1.1" 200 345
+"GET /api/status/ HTTP/1.1" 200 344
+"GET /api/status/ HTTP/1.1" 200 343
+"GET /api/status/ HTTP/1.1" 200 345
+"GET /api/status/ HTTP/1.1" 200 343
+"GET /api/status/ HTTP/1.1" 200 345
+"GET /api/status/ HTTP/1.1" 200 345
+"GET /api/status/ HTTP/1.1" 200 344
+"GET /api/status/ HTTP/1.1" 200 344
+Processing chat request: Suggest luxury beach resorts in the Maldives for h... Session: session_1753646090
+Processing request - Intent: general, Complexity: medium
+Using enhanced RAG system
+"POST /api/chat/ HTTP/1.1" 200 19181
+"GET /api/status/ HTTP/1.1" 200 345
+Processing chat request: hi... Session: session_1753646090
+Processing request - Intent: general, Complexity: simple
+Using enhanced RAG system
+"POST /api/chat/ HTTP/1.1" 200 17431
+Processing chat request: hello... Session: session_1753646090
+Processing request - Intent: general, Complexity: simple
+Using enhanced RAG system
+"POST /api/chat/ HTTP/1.1" 200 5439
+"GET /api/status/ HTTP/1.1" 200 345
+Processing chat request: hotels in france... Session: session_1753646090
+Processing request - Intent: general, Complexity: medium
+Using enhanced RAG system
+"POST /api/chat/ HTTP/1.1" 200 19175
+"GET /api/status/ HTTP/1.1" 200 345
+"GET /api/status/ HTTP/1.1" 200 344
+Processing chat request: hotels... Session: session_1753646090
+Processing request - Intent: general, Complexity: medium
+Using enhanced RAG system
+"POST /api/chat/ HTTP/1.1" 200 3529
+"GET /api/status/ HTTP/1.1" 200 345
+"GET /api/status/ HTTP/1.1" 200 345
+"GET /api/status/ HTTP/1.1" 200 345
+"GET /api/status/ HTTP/1.1" 200 343
+"GET /api/status/ HTTP/1.1" 200 345
+"GET /api/status/ HTTP/1.1" 200 345
+Processing chat request: Suggest luxury beach resorts in the Maldives for h... Session: session_1753646258
+Processing request - Intent: general, Complexity: medium
+Using enhanced RAG system
+"POST /api/chat/ HTTP/1.1" 200 19181
+"GET /api/status/ HTTP/1.1" 200 345
+"GET /api/status/ HTTP/1.1" 200 345
+C:\Users\abhik\AppData\Local\Programs\Python\Python313\Lib\site-packages\sentence_transformers\readers\TripletReader.py changed, reloading.
+Watching for file changes with StatReloader
+CrewAI successfully imported
+CrewAI tools not available
+Anthropic LLM client initialized
+Initializing Enhanced RAG System...
+Using dataset: ./data/travel_complete_dataset.jsonl
+Enhanced Travel RAG system initialized
+Loading and indexing comprehensive travel datasets...
+Loading dataset: ./data/travel_complete_dataset.jsonl
+Loaded 1431 entries from travel_complete_dataset.jsonl
+Loaded sufficient data (1431 entries), stopping
+Successfully loaded 1431 travel documents from 1 datasets
+BM25 index created successfully
+Indexing completed successfully
+RAG system initialized successfully
+Initializing CrewAI Multi-Agent System...
+Using Anthropic LLM for CrewAI agents
+Using dataset: ./data/travel_complete_dataset.jsonl
+Enhanced Travel RAG system initialized
+Loading and indexing comprehensive travel datasets...
+Loading dataset: ./data/travel_complete_dataset.jsonl
+Loaded 1431 entries from travel_complete_dataset.jsonl
+Loaded sufficient data (1431 entries), stopping
+Successfully loaded 1431 travel documents from 1 datasets
+BM25 index created successfully
+Indexing completed successfully
+Initialized 1 tools for CrewAI agents
+Created 3 CrewAI agents
+CrewAI crew created successfully
+CrewAI Travel System initialized successfully
+CrewAI system initialized successfully
+Production Travel AI Agent initialized with enhanced capabilities
+C:\Users\abhik\Downloads\traveling\simplified_travel_ai\backend\api\enhanced_rag.py changed, reloading.
+Watching for file changes with StatReloader
+CrewAI successfully imported
+CrewAI tools not available
+Anthropic LLM client initialized
+Initializing Enhanced RAG System...
+Using dataset: ./data/travel_complete_dataset.jsonl
+Enhanced Travel RAG system initialized
+Loading and indexing comprehensive travel datasets...
+Loading dataset: ./data/travel_complete_dataset.jsonl
+Loaded 1431 entries from travel_complete_dataset.jsonl
+Loaded sufficient data (1431 entries), stopping
+Successfully loaded 1431 travel documents from 1 datasets
+BM25 index created successfully
+Indexing completed successfully
+RAG system initialized successfully
+Initializing CrewAI Multi-Agent System...
+Using Anthropic LLM for CrewAI agents
+Using dataset: ./data/travel_complete_dataset.jsonl
+Enhanced Travel RAG system initialized
+Loading and indexing comprehensive travel datasets...
+Loading dataset: ./data/travel_complete_dataset.jsonl
+Loaded 1431 entries from travel_complete_dataset.jsonl
+Loaded sufficient data (1431 entries), stopping
+Successfully loaded 1431 travel documents from 1 datasets
+BM25 index created successfully
+Indexing completed successfully
+Initialized 1 tools for CrewAI agents
+Created 3 CrewAI agents
+CrewAI crew created successfully
+CrewAI Travel System initialized successfully
+CrewAI system initialized successfully
+Production Travel AI Agent initialized with enhanced capabilities
+"GET /api/status/ HTTP/1.1" 200 343
+C:\Users\abhik\Downloads\traveling\simplified_travel_ai\backend\api\enhanced_rag.py changed, reloading.
+Watching for file changes with StatReloader
+CrewAI successfully imported
+CrewAI tools not available
+Anthropic LLM client initialized
+Initializing Enhanced RAG System...
+Using dataset: ./data/travel_complete_dataset.jsonl
+Enhanced Travel RAG system initialized
+Loading and indexing comprehensive travel datasets...
+Loading dataset: ./data/travel_complete_dataset.jsonl
+Loaded 1431 entries from travel_complete_dataset.jsonl
+Loaded sufficient data (1431 entries), stopping
+Successfully loaded 1431 travel documents from 1 datasets
+BM25 index created successfully
+Indexing completed successfully
+RAG system initialized successfully
+Initializing CrewAI Multi-Agent System...
+Using Anthropic LLM for CrewAI agents
+Using dataset: ./data/travel_complete_dataset.jsonl
+Enhanced Travel RAG system initialized
+Loading and indexing comprehensive travel datasets...
+Loading dataset: ./data/travel_complete_dataset.jsonl
+Loaded 1431 entries from travel_complete_dataset.jsonl
+Loaded sufficient data (1431 entries), stopping
+Successfully loaded 1431 travel documents from 1 datasets
+BM25 index created successfully
+Indexing completed successfully
+Initialized 1 tools for CrewAI agents
+Created 3 CrewAI agents
+CrewAI crew created successfully
+CrewAI Travel System initialized successfully
+CrewAI system initialized successfully
+Production Travel AI Agent initialized with enhanced capabilities
+"GET /api/status/ HTTP/1.1" 200 344
+"GET /api/status/ HTTP/1.1" 200 345
+Using dataset: ./data/travel_complete_dataset.jsonl
+"GET /api/status/ HTTP/1.1" 200 344
+Groq LLM initialized for RAG with Llama-4-Scout
+Enhanced Travel RAG system initialized
+Loading and indexing comprehensive travel datasets...
+Loading dataset: ./data/travel_complete_dataset.jsonl
+Loaded 1431 entries from travel_complete_dataset.jsonl
+Loaded sufficient data (1431 entries), stopping
+Successfully loaded 1431 travel documents from 1 datasets
+BM25 index created successfully
+Indexing completed successfully
+"GET /api/status/ HTTP/1.1" 200 344
+CrewAI successfully imported
+CrewAI tools not available
+Using Llama-4-Scout model for CrewAI agents
+Using Groq LLM for CrewAI agents
+Using dataset: ./data/travel_complete_dataset.jsonl
+Groq LLM initialized for RAG with Llama-4-Scout
+Enhanced Travel RAG system initialized
+Loading and indexing comprehensive travel datasets...
+Loading dataset: ./data/travel_complete_dataset.jsonl
+Loaded 1431 entries from travel_complete_dataset.jsonl
+Loaded sufficient data (1431 entries), stopping
+Successfully loaded 1431 travel documents from 1 datasets
+BM25 index created successfully
+Indexing completed successfully
+Initialized 1 tools for CrewAI agents
+Created 3 CrewAI agents
+CrewAI crew created successfully
+CrewAI Travel System initialized successfully
+CrewAI processing error: litellm.BadRequestError: LLM Provider NOT provided. Pass in the LLM provider you are trying to call. You passed model=meta-llama/llama-4-scout-17b-16e-instruct
+ Pass model as E.g. For 'Huggingface' inference endpoints pass in `completion(model='huggingface/starcoder',..)` Learn more: https://docs.litellm.ai/docs/providers
+Using dataset: ./data/travel_complete_dataset.jsonl
+Groq LLM initialized for RAG with Llama-4-Scout
+Enhanced Travel RAG system initialized
+Loading and indexing comprehensive travel datasets...
+Loading dataset: ./data/travel_complete_dataset.jsonl
+Loaded 1431 entries from travel_complete_dataset.jsonl
+Loaded sufficient data (1431 entries), stopping
+Successfully loaded 1431 travel documents from 1 datasets
+BM25 index created successfully
+Indexing completed successfully
+"GET /api/status/ HTTP/1.1" 200 345
+"GET /api/status/ HTTP/1.1" 200 345
+"GET /api/status/ HTTP/1.1" 200 344
+"GET /api/status/ HTTP/1.1" 200 345
+"GET /api/status/ HTTP/1.1" 200 345
+C:\Users\abhik\Downloads\traveling\simplified_travel_ai\backend\api\crewai_system.py changed, reloading.
+Watching for file changes with StatReloader
+CrewAI successfully imported
+CrewAI tools not available
+Anthropic LLM client initialized
+Initializing Enhanced RAG System...
+Using dataset: ./data/travel_complete_dataset.jsonl
+Enhanced Travel RAG system initialized
+Loading and indexing comprehensive travel datasets...
+Loading dataset: ./data/travel_complete_dataset.jsonl
+Loaded 1431 entries from travel_complete_dataset.jsonl
+Loaded sufficient data (1431 entries), stopping
+Successfully loaded 1431 travel documents from 1 datasets
+BM25 index created successfully
+Indexing completed successfully
+RAG system initialized successfully
+Initializing CrewAI Multi-Agent System...
+Using Anthropic LLM for CrewAI agents
+Using dataset: ./data/travel_complete_dataset.jsonl
+Enhanced Travel RAG system initialized
+Loading and indexing comprehensive travel datasets...
+Loading dataset: ./data/travel_complete_dataset.jsonl
+Loaded 1431 entries from travel_complete_dataset.jsonl
+Loaded sufficient data (1431 entries), stopping
+Successfully loaded 1431 travel documents from 1 datasets
+BM25 index created successfully
+Indexing completed successfully
+Initialized 1 tools for CrewAI agents
+Created 3 CrewAI agents
+CrewAI crew created successfully
+CrewAI Travel System initialized successfully
+CrewAI system initialized successfully
+Production Travel AI Agent initialized with enhanced capabilities
+Using dataset: ./data/travel_complete_dataset.jsonl
+Groq LLM initialized for RAG with Llama-4-Scout
+Enhanced Travel RAG system initialized
+Loading and indexing comprehensive travel datasets...
+Loading dataset: ./data/travel_complete_dataset.jsonl
+Loaded 1431 entries from travel_complete_dataset.jsonl
+Loaded sufficient data (1431 entries), stopping
+Successfully loaded 1431 travel documents from 1 datasets
+BM25 index created successfully
+Indexing completed successfully
+CrewAI successfully imported
+CrewAI tools not available
+Using Llama3-70B model for CrewAI agents
+Using Groq LLM for CrewAI agents
+Using dataset: ./data/travel_complete_dataset.jsonl
+Groq LLM initialized for RAG with Llama-4-Scout
+Enhanced Travel RAG system initialized
+Loading and indexing comprehensive travel datasets...
+Loading dataset: ./data/travel_complete_dataset.jsonl
+Loaded 1431 entries from travel_complete_dataset.jsonl
+Loaded sufficient data (1431 entries), stopping
+Successfully loaded 1431 travel documents from 1 datasets
+BM25 index created successfully
+Indexing completed successfully
+Initialized 1 tools for CrewAI agents
+Created 3 CrewAI agents
+CrewAI crew created successfully
+CrewAI Travel System initialized successfully
+CrewAI processing error: litellm.BadRequestError: LLM Provider NOT provided. Pass in the LLM provider you are trying to call. You passed model=llama3-70b-8192
+ Pass model as E.g. For 'Huggingface' inference endpoints pass in `completion(model='huggingface/starcoder',..)` Learn more: https://docs.litellm.ai/docs/providers
+Groq LLM client initialized
+OpenAI LLM client initialized
+Anthropic LLM client initialized
+Initializing Enhanced RAG System...
+Using dataset: ./data/travel_complete_dataset.jsonl
+Groq LLM initialized for RAG with Llama-4-Scout
+Enhanced Travel RAG system initialized
+Loading and indexing comprehensive travel datasets...
+Loading dataset: ./data/travel_complete_dataset.jsonl
+Loaded 1431 entries from travel_complete_dataset.jsonl
+Loaded sufficient data (1431 entries), stopping
+Successfully loaded 1431 travel documents from 1 datasets
+BM25 index created successfully
+Indexing completed successfully
+RAG system initialized successfully
+Initializing CrewAI Multi-Agent System...
+Using Llama3-70B model for CrewAI agents
+Using Groq LLM for CrewAI agents
+Using dataset: ./data/travel_complete_dataset.jsonl
+Groq LLM initialized for RAG with Llama-4-Scout
+Enhanced Travel RAG system initialized
+Loading and indexing comprehensive travel datasets...
+Loading dataset: ./data/travel_complete_dataset.jsonl
+Loaded 1431 entries from travel_complete_dataset.jsonl
+Loaded sufficient data (1431 entries), stopping
+Successfully loaded 1431 travel documents from 1 datasets
+BM25 index created successfully
+Indexing completed successfully
+Initialized 1 tools for CrewAI agents
+Created 3 CrewAI agents
+CrewAI crew created successfully
+CrewAI Travel System initialized successfully
+CrewAI system initialized successfully
+Production Travel AI Agent initialized with enhanced capabilities
+Processing request - Intent: general, Complexity: complex
+Using CrewAI multi-agent system for complex query
+CrewAI processing error: litellm.BadRequestError: LLM Provider NOT provided. Pass in the LLM provider you are trying to call. You passed model=llama3-70b-8192
+ Pass model as E.g. For 'Huggingface' inference endpoints pass in `completion(model='huggingface/starcoder',..)` Learn more: https://docs.litellm.ai/docs/providers
+CrewAI system failed, falling back to custom multi-agent
+Using enhanced RAG system
+C:\Users\abhik\Downloads\traveling\simplified_travel_ai\backend\api\crewai_system.py changed, reloading.
+Watching for file changes with StatReloader
+CrewAI successfully imported
+CrewAI tools not available
+Anthropic LLM client initialized
+Initializing Enhanced RAG System...
+Using dataset: ./data/travel_complete_dataset.jsonl
+Enhanced Travel RAG system initialized
+Loading and indexing comprehensive travel datasets...
+Loading dataset: ./data/travel_complete_dataset.jsonl
+Loaded 1431 entries from travel_complete_dataset.jsonl
+Loaded sufficient data (1431 entries), stopping
+Successfully loaded 1431 travel documents from 1 datasets
+BM25 index created successfully
+Indexing completed successfully
+RAG system initialized successfully
+Initializing CrewAI Multi-Agent System...
+Using Anthropic LLM for CrewAI agents
+Using dataset: ./data/travel_complete_dataset.jsonl
+Enhanced Travel RAG system initialized
+Loading and indexing comprehensive travel datasets...
+Loading dataset: ./data/travel_complete_dataset.jsonl
+Loaded 1431 entries from travel_complete_dataset.jsonl
+Loaded sufficient data (1431 entries), stopping
+Successfully loaded 1431 travel documents from 1 datasets
+BM25 index created successfully
+Indexing completed successfully
+Initialized 1 tools for CrewAI agents
+Created 3 CrewAI agents
+CrewAI crew created successfully
+CrewAI Travel System initialized successfully
+CrewAI system initialized successfully
+Production Travel AI Agent initialized with enhanced capabilities
+C:\Users\abhik\Downloads\traveling\simplified_travel_ai\backend\api\crewai_system.py changed, reloading.
+Watching for file changes with StatReloader
+CrewAI successfully imported
+CrewAI tools not available
+Anthropic LLM client initialized
+Initializing Enhanced RAG System...
+Using dataset: ./data/travel_complete_dataset.jsonl
+Enhanced Travel RAG system initialized
+Loading and indexing comprehensive travel datasets...
+Loading dataset: ./data/travel_complete_dataset.jsonl
+Loaded 1431 entries from travel_complete_dataset.jsonl
+Loaded sufficient data (1431 entries), stopping
+Successfully loaded 1431 travel documents from 1 datasets
+BM25 index created successfully
+Indexing completed successfully
+RAG system initialized successfully
+Initializing CrewAI Multi-Agent System...
+Error initializing LLM: cannot access local variable 'os' where it is not associated with a value
+Using dataset: ./data/travel_complete_dataset.jsonl
+Enhanced Travel RAG system initialized
+Loading and indexing comprehensive travel datasets...
+Loading dataset: ./data/travel_complete_dataset.jsonl
+Loaded 1431 entries from travel_complete_dataset.jsonl
+Loaded sufficient data (1431 entries), stopping
+Successfully loaded 1431 travel documents from 1 datasets
+BM25 index created successfully
+Indexing completed successfully
+Initialized 1 tools for CrewAI agents
+Cannot create CrewAI agents - missing dependencies
+Cannot create CrewAI crew - missing agents
+CrewAI Travel System initialized successfully
+CrewAI system initialized successfully
+Production Travel AI Agent initialized with enhanced capabilities
+CrewAI successfully imported
+CrewAI tools not available
+Error initializing LLM: cannot access local variable 'os' where it is not associated with a value
+Using dataset: ./data/travel_complete_dataset.jsonl
+Groq LLM initialized for RAG with Llama-4-Scout
+Enhanced Travel RAG system initialized
+Loading and indexing comprehensive travel datasets...
+Loading dataset: ./data/travel_complete_dataset.jsonl
+Loaded 1431 entries from travel_complete_dataset.jsonl
+Loaded sufficient data (1431 entries), stopping
+Successfully loaded 1431 travel documents from 1 datasets
+BM25 index created successfully
+Indexing completed successfully
+Initialized 1 tools for CrewAI agents
+Cannot create CrewAI agents - missing dependencies
+Cannot create CrewAI crew - missing agents
+CrewAI Travel System initialized successfully
+C:\Users\abhik\Downloads\traveling\simplified_travel_ai\backend\api\crewai_system.py changed, reloading.
+Watching for file changes with StatReloader
+CrewAI successfully imported
+CrewAI tools not available
+Anthropic LLM client initialized
+Initializing Enhanced RAG System...
+Using dataset: ./data/travel_complete_dataset.jsonl
+Enhanced Travel RAG system initialized
+Loading and indexing comprehensive travel datasets...
+Loading dataset: ./data/travel_complete_dataset.jsonl
+Loaded 1431 entries from travel_complete_dataset.jsonl
+Loaded sufficient data (1431 entries), stopping
+Successfully loaded 1431 travel documents from 1 datasets
+BM25 index created successfully
+Indexing completed successfully
+RAG system initialized successfully
+Initializing CrewAI Multi-Agent System...
+Using Anthropic LLM for CrewAI agents
+Using dataset: ./data/travel_complete_dataset.jsonl
+Enhanced Travel RAG system initialized
+Loading and indexing comprehensive travel datasets...
+Loading dataset: ./data/travel_complete_dataset.jsonl
+Loaded 1431 entries from travel_complete_dataset.jsonl
+Loaded sufficient data (1431 entries), stopping
+Successfully loaded 1431 travel documents from 1 datasets
+BM25 index created successfully
+Indexing completed successfully
+Initialized 1 tools for CrewAI agents
+Created 3 CrewAI agents
+CrewAI crew created successfully
+CrewAI Travel System initialized successfully
+CrewAI system initialized successfully
+Production Travel AI Agent initialized with enhanced capabilities
+CrewAI successfully imported
+CrewAI tools not available
+Using ChatGroq with model parameter for CrewAI
+Using Groq LLM for CrewAI agents
+Using dataset: ./data/travel_complete_dataset.jsonl
+Groq LLM initialized for RAG with Llama-4-Scout
+Enhanced Travel RAG system initialized
+Loading and indexing comprehensive travel datasets...
+Loading dataset: ./data/travel_complete_dataset.jsonl
+Loaded 1431 entries from travel_complete_dataset.jsonl
+Loaded sufficient data (1431 entries), stopping
+Successfully loaded 1431 travel documents from 1 datasets
+BM25 index created successfully
+Indexing completed successfully
+Initialized 1 tools for CrewAI agents
+Created 3 CrewAI agents
+CrewAI crew created successfully
+CrewAI Travel System initialized successfully
+CrewAI processing error: litellm.BadRequestError: LLM Provider NOT provided. Pass in the LLM provider you are trying to call. You passed model=llama3-70b-8192
+ Pass model as E.g. For 'Huggingface' inference endpoints pass in `completion(model='huggingface/starcoder',..)` Learn more: https://docs.litellm.ai/docs/providers
+C:\Users\abhik\Downloads\traveling\simplified_travel_ai\backend\api\crewai_system.py changed, reloading.
+Watching for file changes with StatReloader
+CrewAI successfully imported
+CrewAI tools not available
+CrewAI successfully imported
+CrewAI tools not available
+Anthropic LLM client initialized
+Initializing Enhanced RAG System...
+Using dataset: ./data/travel_complete_dataset.jsonl
+Enhanced Travel RAG system initialized
+Loading and indexing comprehensive travel datasets...
+Loading dataset: ./data/travel_complete_dataset.jsonl
+Loaded 1431 entries from travel_complete_dataset.jsonl
+Loaded sufficient data (1431 entries), stopping
+Successfully loaded 1431 travel documents from 1 datasets
+BM25 index created successfully
+Indexing completed successfully
+RAG system initialized successfully
+Initializing CrewAI Multi-Agent System...
+Using Anthropic LLM for CrewAI agents
+Using dataset: ./data/travel_complete_dataset.jsonl
+Enhanced Travel RAG system initialized
+Loading and indexing comprehensive travel datasets...
+Loading dataset: ./data/travel_complete_dataset.jsonl
+Loaded 1431 entries from travel_complete_dataset.jsonl
+Loaded sufficient data (1431 entries), stopping
+Successfully loaded 1431 travel documents from 1 datasets
+Using LiteLLM wrapper for CrewAI compatibility
+Using Groq LLM for CrewAI agents
+Using dataset: ./data/travel_complete_dataset.jsonl
+Groq LLM initialized for RAG with Llama-4-Scout
+Enhanced Travel RAG system initialized
+Loading and indexing comprehensive travel datasets...
+Loading dataset: ./data/travel_complete_dataset.jsonl
+Loaded 1431 entries from travel_complete_dataset.jsonl
+Loaded sufficient data (1431 entries), stopping
+Successfully loaded 1431 travel documents from 1 datasets
+BM25 index created successfully
+Indexing completed successfully
+Initialized 1 tools for CrewAI agents
+Created 3 CrewAI agents
+CrewAI crew created successfully
+CrewAI Travel System initialized successfully
+CrewAI system initialized successfully
+Production Travel AI Agent initialized with enhanced capabilities
+BM25 index created successfully
+Indexing completed successfully
+Initialized 1 tools for CrewAI agents
+Created 3 CrewAI agents
+CrewAI crew created successfully
+CrewAI Travel System initialized successfully
+CrewAI processing error: litellm.RateLimitError: RateLimitError: GroqException - {"error":{"message":"Rate limit reached for model `llama3-70b-8192` in organization `org_01jzrdm93feae8wgnkvzhrq00c` service tier `on_demand` on tokens per minute (TPM): Limit 6000, Used 6147, Requested 1798. Please try again in 19.451s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing","type":"tokens","code":"rate_limit_exceeded"}}
+
+C:\Users\abhik\Downloads\traveling\simplified_travel_ai\backend\api\crewai_system.py changed, reloading.
+Watching for file changes with StatReloader
+CrewAI successfully imported
+CrewAI tools not available
+Anthropic LLM client initialized
+Initializing Enhanced RAG System...
+Using dataset: ./data/travel_complete_dataset.jsonl
+Enhanced Travel RAG system initialized
+Loading and indexing comprehensive travel datasets...
+Loading dataset: ./data/travel_complete_dataset.jsonl
+Loaded 1431 entries from travel_complete_dataset.jsonl
+Loaded sufficient data (1431 entries), stopping
+Successfully loaded 1431 travel documents from 1 datasets
+BM25 index created successfully
+Indexing completed successfully
+RAG system initialized successfully
+Initializing CrewAI Multi-Agent System...
+Using Anthropic LLM for CrewAI agents
+Using dataset: ./data/travel_complete_dataset.jsonl
+Enhanced Travel RAG system initialized
+Loading and indexing comprehensive travel datasets...
+Loading dataset: ./data/travel_complete_dataset.jsonl
+Loaded 1431 entries from travel_complete_dataset.jsonl
+Loaded sufficient data (1431 entries), stopping
+Successfully loaded 1431 travel documents from 1 datasets
+BM25 index created successfully
+Indexing completed successfully
+Initialized 1 tools for CrewAI agents
+Created 3 CrewAI agents
+CrewAI crew created successfully
+CrewAI Travel System initialized successfully
+CrewAI system initialized successfully
+Production Travel AI Agent initialized with enhanced capabilities
+CrewAI successfully imported
+CrewAI tools not available
+Using LiteLLM wrapper for CrewAI compatibility
+Using Groq LLM for CrewAI agents
+Using dataset: ./data/travel_complete_dataset.jsonl
+Groq LLM initialized for RAG with Llama-4-Scout
+Enhanced Travel RAG system initialized
+Loading and indexing comprehensive travel datasets...
+Loading dataset: ./data/travel_complete_dataset.jsonl
+Loaded 1431 entries from travel_complete_dataset.jsonl
+Loaded sufficient data (1431 entries), stopping
+Successfully loaded 1431 travel documents from 1 datasets
+BM25 index created successfully
+Indexing completed successfully
+Initialized 1 tools for CrewAI agents
+Created 3 CrewAI agents
+CrewAI crew created successfully
+CrewAI Travel System initialized successfully
+CrewAI processing error: litellm.RateLimitError: RateLimitError: GroqException - {"error":{"message":"Rate limit reached for model `llama3-70b-8192` in organization `org_01jzrdm93feae8wgnkvzhrq00c` service tier `on_demand` on tokens per minute (TPM): Limit 6000, Used 5404, Requested 1857. Please try again in 12.604s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing","type":"tokens","code":"rate_limit_exceeded"}}
+
+C:\Users\abhik\Downloads\traveling\simplified_travel_ai\backend\api\crewai_system.py changed, reloading.
+Watching for file changes with StatReloader
+CrewAI successfully imported
+CrewAI tools not available
+Anthropic LLM client initialized
+Initializing Enhanced RAG System...
+Using dataset: ./data/travel_complete_dataset.jsonl
+Enhanced Travel RAG system initialized
+Loading and indexing comprehensive travel datasets...
+Loading dataset: ./data/travel_complete_dataset.jsonl
+Loaded 1431 entries from travel_complete_dataset.jsonl
+Loaded sufficient data (1431 entries), stopping
+Successfully loaded 1431 travel documents from 1 datasets
+BM25 index created successfully
+Indexing completed successfully
+RAG system initialized successfully
+Initializing CrewAI Multi-Agent System...
+Using Anthropic LLM for CrewAI agents
+Using dataset: ./data/travel_complete_dataset.jsonl
+Enhanced Travel RAG system initialized
+Loading and indexing comprehensive travel datasets...
+Loading dataset: ./data/travel_complete_dataset.jsonl
+Loaded 1431 entries from travel_complete_dataset.jsonl
+Loaded sufficient data (1431 entries), stopping
+Successfully loaded 1431 travel documents from 1 datasets
+BM25 index created successfully
+Indexing completed successfully
+Initialized 1 tools for CrewAI agents
+Created 3 CrewAI agents
+CrewAI crew created successfully
+CrewAI Travel System initialized successfully
+CrewAI system initialized successfully
+Production Travel AI Agent initialized with enhanced capabilities
+"GET /api/status/ HTTP/1.1" 200 345
+"GET /api/status/ HTTP/1.1" 200 345
+Processing chat request: Suggest luxury beach resorts in the Maldives for h... Session: session_1753647665
+Processing request - Intent: general, Complexity: medium
+Using enhanced RAG system
+"POST /api/chat/ HTTP/1.1" 200 19180
+Processing chat request: travel to france... Session: session_1753647665
+Processing request - Intent: general, Complexity: medium
+Using enhanced RAG system
+"POST /api/chat/ HTTP/1.1" 200 17432
+"GET /api/status/ HTTP/1.1" 200 344
+"GET /api/status/ HTTP/1.1" 200 345
+"GET /api/status/ HTTP/1.1" 200 345
+Processing chat request: france hotels... Session: session_1753647665
+Processing request - Intent: general, Complexity: medium
+Using enhanced RAG system
+"POST /api/chat/ HTTP/1.1" 200 17997
+"GET /api/status/ HTTP/1.1" 200 345
+"GET /api/status/ HTTP/1.1" 200 345
+"GET /api/status/ HTTP/1.1" 200 345
+Processing chat request: cost to delhi... Session: session_1753647665
+Processing request - Intent: general, Complexity: simple
+Using enhanced RAG system
+"POST /api/chat/ HTTP/1.1" 200 17430
+"GET /api/status/ HTTP/1.1" 200 345
+Processing chat request: Delhi... Session: session_1753647665
+Processing request - Intent: general, Complexity: simple
+Using enhanced RAG system
+"POST /api/chat/ HTTP/1.1" 200 5198
+Processing chat request: cost price of f rance hotels... Session: session_1753647665
+Processing request - Intent: general, Complexity: medium
+Using enhanced RAG system
+"POST /api/chat/ HTTP/1.1" 200 17998
+"GET /api/status/ HTTP/1.1" 200 345
+Processing chat request: france hotel cost... Session: session_1753647665
+Processing request - Intent: general, Complexity: medium
+Using enhanced RAG system
+"POST /api/chat/ HTTP/1.1" 200 17433
+"GET /api/status/ HTTP/1.1" 200 345
+Processing chat request: franc ebest hotels... Session: session_1753647665
+Processing request - Intent: general, Complexity: medium
+Using enhanced RAG system
+"POST /api/chat/ HTTP/1.1" 200 3910
+"GET /api/status/ HTTP/1.1" 200 345
+"GET /api/status/ HTTP/1.1" 200 345
+"GET /api/status/ HTTP/1.1" 200 344
+"GET /api/status/ HTTP/1.1" 200 345
+C:\Users\abhik\Downloads\traveling\simplified_travel_ai\backend\api\enhanced_rag.py changed, reloading.
+Watching for file changes with StatReloader
+Sentence transformers not available
+CrewAI successfully imported
+CrewAI tools not available
+Anthropic LLM client initialized
+Initializing Enhanced RAG System...
+Using dataset: ./data/travel_complete_dataset.jsonl
+ML intent classifier loaded
+Enhanced recommendation engine and specialized agents initialized
+Enhanced Travel RAG system initialized
+Loading and indexing comprehensive travel datasets...
+Loading dataset: ./data/travel_complete_dataset.jsonl
+Loaded 1431 entries from travel_complete_dataset.jsonl
+Loaded sufficient data (1431 entries), stopping
+Successfully loaded 1431 travel documents from 1 datasets
+BM25 index created successfully
+Indexing completed successfully
+RAG system initialized successfully
+Initializing CrewAI Multi-Agent System...
+Using Anthropic LLM for CrewAI agents
+Using dataset: ./data/travel_complete_dataset.jsonl
+ML intent classifier loaded
+Enhanced recommendation engine and specialized agents initialized
+Enhanced Travel RAG system initialized
+Loading and indexing comprehensive travel datasets...
+Loading dataset: ./data/travel_complete_dataset.jsonl
+Loaded 1431 entries from travel_complete_dataset.jsonl
+Loaded sufficient data (1431 entries), stopping
+Successfully loaded 1431 travel documents from 1 datasets
+BM25 index created successfully
+Indexing completed successfully
+Initialized 1 tools for CrewAI agents
+Created 3 CrewAI agents
+CrewAI crew created successfully
+CrewAI Travel System initialized successfully
+CrewAI system initialized successfully
+Production Travel AI Agent initialized with enhanced capabilities
+"GET /api/status/ HTTP/1.1" 200 345
+"GET /api/status/ HTTP/1.1" 200 345
+"OPTIONS /api/chat/ HTTP/1.1" 200 0
+Processing chat request: france best hotel nsmes... Session: session_1753647665
+Processing request - Intent: general, Complexity: medium
+Using enhanced RAG system
+"POST /api/chat/ HTTP/1.1" 200 17433
+"GET /api/status/ HTTP/1.1" 200 344
+"GET /api/status/ HTTP/1.1" 200 345
+"GET /api/status/ HTTP/1.1" 200 344
+Processing chat request: Plan an adventure trip to New Zealand for 2 weeks... Session: session_1753649122
+Processing request - Intent: general, Complexity: complex
+Using CrewAI multi-agent system for complex query
+CrewAI processing error: litellm.BadRequestError: LLM Provider NOT provided. Pass in the LLM provider you are trying to call. You passed model=claude-3-sonnet-20240229
+ Pass model as E.g. For 'Huggingface' inference endpoints pass in `completion(model='huggingface/starcoder',..)` Learn more: https://docs.litellm.ai/docs/providers
+CrewAI system failed, falling back to custom multi-agent
+Using enhanced RAG system
+"POST /api/chat/ HTTP/1.1" 200 19182
+"GET /api/status/ HTTP/1.1" 200 344
+C:\Users\abhik\Downloads\traveling\simplified_travel_ai\backend\api\crewai_system.py changed, reloading.
+Watching for file changes with StatReloader
+Sentence transformers not available
+CrewAI successfully imported
+CrewAI tools not available
+Anthropic LLM client initialized
+Initializing Enhanced RAG System...
+Using dataset: ./data/travel_complete_dataset.jsonl
+ML intent classifier loaded
+Enhanced recommendation engine and specialized agents initialized
+Enhanced Travel RAG system initialized
+Loading and indexing comprehensive travel datasets...
+Loading dataset: ./data/travel_complete_dataset.jsonl
+Loaded 1431 entries from travel_complete_dataset.jsonl
+Loaded sufficient data (1431 entries), stopping
+Successfully loaded 1431 travel documents from 1 datasets
+BM25 index created successfully
+Indexing completed successfully
+RAG system initialized successfully
+Initializing CrewAI Multi-Agent System...
+Skipping Anthropic LLM due to LiteLLM provider format issues
+No LLM available for CrewAI agents
+Using dataset: ./data/travel_complete_dataset.jsonl
+ML intent classifier loaded
+Enhanced recommendation engine and specialized agents initialized
+Enhanced Travel RAG system initialized
+Loading and indexing comprehensive travel datasets...
+Loading dataset: ./data/travel_complete_dataset.jsonl
+Loaded 1431 entries from travel_complete_dataset.jsonl
+Loaded sufficient data (1431 entries), stopping
+Successfully loaded 1431 travel documents from 1 datasets
+BM25 index created successfully
+Indexing completed successfully
+Initialized 1 tools for CrewAI agents
+Cannot create CrewAI agents - missing dependencies
+Cannot create CrewAI crew - missing agents
+CrewAI Travel System initialized successfully
+CrewAI system initialized successfully
+Production Travel AI Agent initialized with enhanced capabilities
+C:\Users\abhik\Downloads\traveling\simplified_travel_ai\backend\api\crewai_system.py changed, reloading.
+Watching for file changes with StatReloader
+CrewAI successfully imported
+CrewAI tools not available
+Anthropic LLM client initialized
+Initializing Enhanced RAG System...
+Using dataset: ./data/travel_complete_dataset.jsonl
+Enhanced Travel RAG system initialized
+Loading and indexing comprehensive travel datasets...
+Loading dataset: ./data/travel_complete_dataset.jsonl
+Loaded 1431 entries from travel_complete_dataset.jsonl
+Loaded sufficient data (1431 entries), stopping
+Successfully loaded 1431 travel documents from 1 datasets
+BM25 index created successfully
+Indexing completed successfully
+RAG system initialized successfully
+Initializing CrewAI Multi-Agent System...
+Using Anthropic LLM for CrewAI agents
+Using dataset: ./data/travel_complete_dataset.jsonl
+Enhanced Travel RAG system initialized
+Loading and indexing comprehensive travel datasets...
+Loading dataset: ./data/travel_complete_dataset.jsonl
+Loaded 1431 entries from travel_complete_dataset.jsonl
+Loaded sufficient data (1431 entries), stopping
+Successfully loaded 1431 travel documents from 1 datasets
+BM25 index created successfully
+Indexing completed successfully
+Initialized 1 tools for CrewAI agents
+Created 3 CrewAI agents
+CrewAI crew created successfully
+CrewAI Travel System initialized successfully
+CrewAI system initialized successfully
+Production Travel AI Agent initialized with enhanced capabilities
+"GET /api/status/ HTTP/1.1" 200 345
+Processing chat request: hi... Session: session_1753649572
+Processing request - Intent: general, Complexity: simple
+Using enhanced RAG system
+"POST /api/chat/ HTTP/1.1" 200 17433
+"GET /api/status/ HTTP/1.1" 200 346
+Processing chat request: hotel in france... Session: session_1753649572
+Processing request - Intent: general, Complexity: medium
+Using enhanced RAG system
+"POST /api/chat/ HTTP/1.1" 200 19175
+Processing chat request: france... Session: session_1753649572
+Processing request - Intent: general, Complexity: medium
+Using enhanced RAG system
+"POST /api/chat/ HTTP/1.1" 200 17999
+"GET /api/status/ HTTP/1.1" 200 346
+C:\Users\abhik\Downloads\traveling\simplified_travel_ai\backend\api\ai_agent.py changed, reloading.
+Watching for file changes with StatReloader
+CrewAI successfully imported
+CrewAI tools not available
+Anthropic LLM client initialized
+Initializing Enhanced RAG System...
+Using dataset: ./data/travel_complete_dataset.jsonl
+Enhanced Travel RAG system initialized
+Loading and indexing comprehensive travel datasets...
+Loading dataset: ./data/travel_complete_dataset.jsonl
+Loaded 1431 entries from travel_complete_dataset.jsonl
+Loaded sufficient data (1431 entries), stopping
+Successfully loaded 1431 travel documents from 1 datasets
+BM25 index created successfully
+Indexing completed successfully
+RAG system initialized successfully
+Initializing CrewAI Multi-Agent System...
+Using Anthropic LLM for CrewAI agents
+Using dataset: ./data/travel_complete_dataset.jsonl
+Enhanced Travel RAG system initialized
+Loading and indexing comprehensive travel datasets...
+Loading dataset: ./data/travel_complete_dataset.jsonl
+Loaded 1431 entries from travel_complete_dataset.jsonl
+Loaded sufficient data (1431 entries), stopping
+Successfully loaded 1431 travel documents from 1 datasets
+BM25 index created successfully
+Indexing completed successfully
+Initialized 1 tools for CrewAI agents
+Created 3 CrewAI agents
+CrewAI crew created successfully
+CrewAI Travel System initialized successfully
+CrewAI system initialized successfully
+Production Travel AI Agent initialized with enhanced capabilities
+Processing chat request: hi... Session: session_1753649572
+Processing request - Intent: general, Complexity: simple
+Using enhanced RAG system with specialized agents
+"POST /api/chat/ HTTP/1.1" 200 17432
+"GET /api/status/ HTTP/1.1" 200 345
+Processing chat request: hotel in france... Session: session_1753649572
+Processing request - Intent: general, Complexity: medium
+Using enhanced RAG system with specialized agents
+"POST /api/chat/ HTTP/1.1" 200 19175
+"GET /api/status/ HTTP/1.1" 200 345
+"GET /api/status/ HTTP/1.1" 200 346
+C:\Users\abhik\Downloads\traveling\simplified_travel_ai\backend\api\ai_agent.py changed, reloading.
+Watching for file changes with StatReloader
+CrewAI successfully imported
+CrewAI tools not available
+Anthropic LLM client initialized
+Initializing Enhanced RAG System...
+Using dataset: ./data/travel_complete_dataset.jsonl
+Enhanced Travel RAG system initialized
+Loading and indexing comprehensive travel datasets...
+Loading dataset: ./data/travel_complete_dataset.jsonl
+Loaded 1431 entries from travel_complete_dataset.jsonl
+Loaded sufficient data (1431 entries), stopping
+Successfully loaded 1431 travel documents from 1 datasets
+BM25 index created successfully
+Indexing completed successfully
+RAG system initialized successfully
+Initializing CrewAI Multi-Agent System...
+Using Anthropic LLM for CrewAI agents
+Using dataset: ./data/travel_complete_dataset.jsonl
+Enhanced Travel RAG system initialized
+Loading and indexing comprehensive travel datasets...
+Loading dataset: ./data/travel_complete_dataset.jsonl
+Loaded 1431 entries from travel_complete_dataset.jsonl
+Loaded sufficient data (1431 entries), stopping
+Successfully loaded 1431 travel documents from 1 datasets
+BM25 index created successfully
+Indexing completed successfully
+Initialized 1 tools for CrewAI agents
+Created 3 CrewAI agents
+CrewAI crew created successfully
+CrewAI Travel System initialized successfully
+CrewAI system initialized successfully
+Production Travel AI Agent initialized with enhanced capabilities
+"GET /api/status/ HTTP/1.1" 200 345
+Processing chat request: france... Session: session_1753649572
+Processing request - Intent: general, Complexity: medium
+Using enhanced RAG system with specialized agents
+"POST /api/chat/ HTTP/1.1" 200 17998
+Processing chat request: france... Session: session_1753649572
+Processing request - Intent: general, Complexity: medium
+Using enhanced RAG system with specialized agents
+"POST /api/chat/ HTTP/1.1" 200 17999
+"GET /api/status/ HTTP/1.1" 200 346
+"GET /api/status/ HTTP/1.1" 200 346
+Processing chat request: plan trip to delhi... Session: session_1753649572
+Processing request - Intent: general, Complexity: complex
+Using CrewAI multi-agent system for complex query
+CrewAI processing error: litellm.BadRequestError: LLM Provider NOT provided. Pass in the LLM provider you are trying to call. You passed model=claude-3-sonnet-20240229
+ Pass model as E.g. For 'Huggingface' inference endpoints pass in `completion(model='huggingface/starcoder',..)` Learn more: https://docs.litellm.ai/docs/providers
+CrewAI system failed, falling back to custom multi-agent
+Using enhanced RAG system with specialized agents
+"POST /api/chat/ HTTP/1.1" 200 17432
+"GET /api/status/ HTTP/1.1" 200 346
+C:\Users\abhik\Downloads\traveling\simplified_travel_ai\backend\api\ai_agent.py changed, reloading.
+Watching for file changes with StatReloader
+CrewAI successfully imported
+CrewAI tools not available
+Anthropic LLM client initialized
+Initializing Enhanced RAG System...
+Using dataset: ./data/travel_complete_dataset.jsonl
+Enhanced Travel RAG system initialized
+Loading and indexing comprehensive travel datasets...
+Loading dataset: ./data/travel_complete_dataset.jsonl
+Loaded 1431 entries from travel_complete_dataset.jsonl
+Loaded sufficient data (1431 entries), stopping
+Successfully loaded 1431 travel documents from 1 datasets
+BM25 index created successfully
+Indexing completed successfully
+RAG system initialized successfully
+Initializing CrewAI Multi-Agent System...
+Using Anthropic LLM for CrewAI agents
+Using dataset: ./data/travel_complete_dataset.jsonl
+Enhanced Travel RAG system initialized
+Loading and indexing comprehensive travel datasets...
+Loading dataset: ./data/travel_complete_dataset.jsonl
+Loaded 1431 entries from travel_complete_dataset.jsonl
+Loaded sufficient data (1431 entries), stopping
+Successfully loaded 1431 travel documents from 1 datasets
+BM25 index created successfully
+Indexing completed successfully
+Initialized 1 tools for CrewAI agents
+Created 3 CrewAI agents
+CrewAI crew created successfully
+CrewAI Travel System initialized successfully
+CrewAI system initialized successfully
+Production Travel AI Agent initialized with enhanced capabilities
+"GET /api/status/ HTTP/1.1" 200 346
+"GET /api/status/ HTTP/1.1" 200 346
+Processing chat request: delhi travel... Session: session_1753649572
+Processing request - Intent: general, Complexity: simple
+Using enhanced RAG system
+"POST /api/chat/ HTTP/1.1" 200 3024
+"GET /api/status/ HTTP/1.1" 200 346
+"GET /api/status/ HTTP/1.1" 200 346
+Processing chat request: delhi travel plan... Session: session_1753649572
+Processing request - Intent: general, Complexity: complex
+Using CrewAI multi-agent system for complex query
+CrewAI processing error: litellm.BadRequestError: LLM Provider NOT provided. Pass in the LLM provider you are trying to call. You passed model=claude-3-sonnet-20240229
+ Pass model as E.g. For 'Huggingface' inference endpoints pass in `completion(model='huggingface/starcoder',..)` Learn more: https://docs.litellm.ai/docs/providers
+CrewAI system failed, falling back to custom multi-agent
+Using enhanced RAG system
+"POST /api/chat/ HTTP/1.1" 200 3022
+"GET /api/status/ HTTP/1.1" 200 345
+C:\Users\abhik\Downloads\traveling\simplified_travel_ai\backend\api\crewai_system.py changed, reloading.
+Watching for file changes with StatReloader
+CrewAI successfully imported
+CrewAI tools not available
+Anthropic LLM client initialized
+Initializing Enhanced RAG System...
+Using dataset: ./data/travel_complete_dataset.jsonl
+Enhanced Travel RAG system initialized
+Loading and indexing comprehensive travel datasets...
+Loading dataset: ./data/travel_complete_dataset.jsonl
+Loaded 1431 entries from travel_complete_dataset.jsonl
+Loaded sufficient data (1431 entries), stopping
+Successfully loaded 1431 travel documents from 1 datasets
+BM25 index created successfully
+Indexing completed successfully
+RAG system initialized successfully
+Initializing CrewAI Multi-Agent System...
+Using Anthropic LLM for CrewAI agents
+Using dataset: ./data/travel_complete_dataset.jsonl
+Enhanced Travel RAG system initialized
+Loading and indexing comprehensive travel datasets...
+Loading dataset: ./data/travel_complete_dataset.jsonl
+Loaded 1431 entries from travel_complete_dataset.jsonl
+Loaded sufficient data (1431 entries), stopping
+Successfully loaded 1431 travel documents from 1 datasets
+BM25 index created successfully
+Indexing completed successfully
+Initialized 1 tools for CrewAI agents
+Created 3 CrewAI agents
+CrewAI crew created successfully
+CrewAI Travel System initialized successfully
+CrewAI system initialized successfully
+Production Travel AI Agent initialized with enhanced capabilities
+Processing chat request: delhi travel... Session: session_1753650487
+Processing request - Intent: general, Complexity: simple
+Using enhanced RAG system
+"POST /api/chat/ HTTP/1.1" 200 3024
+"GET /api/status/ HTTP/1.1" 200 345
+"GET /api/status/ HTTP/1.1" 200 345
+Processing chat request: Recommend family-friendly destinations in Europe f... Session: session_1753650498
+Processing request - Intent: general, Complexity: medium
+Using enhanced RAG system
+"POST /api/chat/ HTTP/1.1" 200 19175
+"GET /api/status/ HTTP/1.1" 200 346
+Processing chat request: delhi... Session: session_1753650498
+Processing request - Intent: general, Complexity: simple
+Using enhanced RAG system
+"POST /api/chat/ HTTP/1.1" 200 5197
+"GET /api/status/ HTTP/1.1" 200 346
+Processing chat request: france travel plan... Session: session_1753650498
+Processing request - Intent: general, Complexity: complex
+Using CrewAI multi-agent system for complex query
+CrewAI processing error: litellm.BadRequestError: LLM Provider NOT provided. Pass in the LLM provider you are trying to call. You passed model=claude-3-sonnet-20240229
+ Pass model as E.g. For 'Huggingface' inference endpoints pass in `completion(model='huggingface/starcoder',..)` Learn more: https://docs.litellm.ai/docs/providers
+CrewAI system failed, falling back to custom multi-agent
+Using enhanced RAG system
+"POST /api/chat/ HTTP/1.1" 200 3024
+Processing chat request: france t ravel plan... Session: session_1753650498
+Processing request - Intent: general, Complexity: complex
+Using CrewAI multi-agent system for complex query
+CrewAI processing error: litellm.BadRequestError: LLM Provider NOT provided. Pass in the LLM provider you are trying to call. You passed model=claude-3-sonnet-20240229
+ Pass model as E.g. For 'Huggingface' inference endpoints pass in `completion(model='huggingface/starcoder',..)` Learn more: https://docs.litellm.ai/docs/providers
+CrewAI system failed, falling back to custom multi-agent
+Using enhanced RAG system
+"POST /api/chat/ HTTP/1.1" 200 19175
+"GET /api/status/ HTTP/1.1" 200 346
+Processing chat request: france traveel plan... Session: session_1753650498
+Processing request - Intent: general, Complexity: complex
+Using CrewAI multi-agent system for complex query
+CrewAI processing error: litellm.BadRequestError: LLM Provider NOT provided. Pass in the LLM provider you are trying to call. You passed model=claude-3-sonnet-20240229
+ Pass model as E.g. For 'Huggingface' inference endpoints pass in `completion(model='huggingface/starcoder',..)` Learn more: https://docs.litellm.ai/docs/providers
+CrewAI system failed, falling back to custom multi-agent
+Using enhanced RAG system
+"POST /api/chat/ HTTP/1.1" 200 4853
+"GET /api/status/ HTTP/1.1" 200 346
+Processing chat request: france hotels... Session: session_1753650498
+Processing request - Intent: general, Complexity: medium
+Using enhanced RAG system
+"POST /api/chat/ HTTP/1.1" 200 17997
+Processing chat request: france hotels... Session: session_1753650498
+Processing request - Intent: general, Complexity: medium
+Using enhanced RAG system
+"POST /api/chat/ HTTP/1.1" 200 17999
+"GET /api/status/ HTTP/1.1" 200 346
+Processing chat request: france hotels... Session: session_1753650498
+Processing request - Intent: general, Complexity: medium
+Using enhanced RAG system
+"POST /api/chat/ HTTP/1.1" 200 17997
+"GET /api/status/ HTTP/1.1" 200 346
+Processing chat request: nizeria... Session: session_1753650498
+Processing request - Intent: general, Complexity: medium
+Using enhanced RAG system
+"POST /api/chat/ HTTP/1.1" 200 519
+Processing chat request: nizeria romantic... Session: session_1753650498
+Processing request - Intent: general, Complexity: medium
+Using enhanced RAG system
+"POST /api/chat/ HTTP/1.1" 200 5630
+"GET /api/status/ HTTP/1.1" 200 346
+Processing chat request: france romantic... Session: session_1753650498
+Processing request - Intent: general, Complexity: medium
+Using enhanced RAG system
+"POST /api/chat/ HTTP/1.1" 200 5629
+Processing chat request: france romantic... Session: session_1753650498
+Processing request - Intent: general, Complexity: medium
+Using enhanced RAG system
+"POST /api/chat/ HTTP/1.1" 200 5630
+"GET /api/status/ HTTP/1.1" 200 346
+"GET /api/status/ HTTP/1.1" 200 346
+Processing chat request: i want to travel to france... Session: session_1753650498
+Processing request - Intent: general, Complexity: medium
+Using enhanced RAG system
+"POST /api/chat/ HTTP/1.1" 200 19175
+"GET /api/status/ HTTP/1.1" 200 345
+Processing chat request: travel paln to france... Session: session_1753650498
+Processing request - Intent: general, Complexity: medium
+Using enhanced RAG system
+"POST /api/chat/ HTTP/1.1" 200 17433
+"GET /api/status/ HTTP/1.1" 200 346
+Processing chat request: france... Session: session_1753650498
+Processing request - Intent: general, Complexity: medium
+Using enhanced RAG system
+"POST /api/chat/ HTTP/1.1" 200 17997
+"GET /api/status/ HTTP/1.1" 200 345
+"GET /api/status/ HTTP/1.1" 200 346
+"GET /api/status/ HTTP/1.1" 200 346
+Processing chat request: Find the best budget-friendly destinations in Sout... Session: session_1753650874
+Processing request - Intent: general, Complexity: medium
+Using enhanced RAG system
+"POST /api/chat/ HTTP/1.1" 200 19179
+Processing chat request: southeast asia... Session: session_1753650874
+Processing request - Intent: general, Complexity: medium
+Using enhanced RAG system
+"POST /api/chat/ HTTP/1.1" 200 2582
+"GET /api/status/ HTTP/1.1" 200 345
+"GET /api/status/ HTTP/1.1" 200 346
+Processing chat request: russia travel plan... Session: session_1753650874
+Processing request - Intent: general, Complexity: complex
+Using CrewAI multi-agent system for complex query
+CrewAI processing error: litellm.BadRequestError: LLM Provider NOT provided. Pass in the LLM provider you are trying to call. You passed model=claude-3-sonnet-20240229
+ Pass model as E.g. For 'Huggingface' inference endpoints pass in `completion(model='huggingface/starcoder',..)` Learn more: https://docs.litellm.ai/docs/providers
+CrewAI system failed, falling back to custom multi-agent
+Using enhanced RAG system
+"POST /api/chat/ HTTP/1.1" 200 3023
+Processing chat request: solo... Session: session_1753650874
+Processing request - Intent: general, Complexity: medium
+Using enhanced RAG system
+"POST /api/chat/ HTTP/1.1" 200 3023
+Processing chat request: solo... Session: session_1753650874
+Processing request - Intent: general, Complexity: medium
+Using enhanced RAG system
+"POST /api/chat/ HTTP/1.1" 200 3024
+Processing chat request: france solo trip... Session: session_1753650874
+Processing request - Intent: general, Complexity: medium
+Using enhanced RAG system
+"POST /api/chat/ HTTP/1.1" 200 16093
+"GET /api/status/ HTTP/1.1" 200 345
+"GET /api/status/ HTTP/1.1" 200 346
+"GET /api/conversations/ HTTP/1.1" 200 636884
+"GET /api/conversations/ HTTP/1.1" 200 636884
+"GET /api/status/ HTTP/1.1" 200 346
+"GET /api/status/ HTTP/1.1" 200 345
+"GET /api/conversations/ HTTP/1.1" 200 636884
+"GET /api/conversations/ HTTP/1.1" 200 636884
+Processing chat request: Suggest luxury beach resorts in the Maldives for h... Session: session_1753651040
+Processing request - Intent: general, Complexity: medium
+Using enhanced RAG system
+"POST /api/chat/ HTTP/1.1" 200 19181
+"GET /api/status/ HTTP/1.1" 200 346
+Processing chat request: delhi... Session: session_1753651040
+Processing request - Intent: general, Complexity: simple
+Using enhanced RAG system
+"POST /api/chat/ HTTP/1.1" 200 5196
+Processing chat request: russia... Session: session_1753651040
+Processing request - Intent: general, Complexity: medium
+Using enhanced RAG system
+"POST /api/chat/ HTTP/1.1" 200 3802
+"GET /api/status/ HTTP/1.1" 200 346
+Processing chat request: russia... Session: session_1753651040
+Processing request - Intent: general, Complexity: medium
+Using enhanced RAG system
+"POST /api/chat/ HTTP/1.1" 200 3801
+Processing chat request: rusia... Session: session_1753651040
+Processing request - Intent: general, Complexity: medium
+Using enhanced RAG system
+"POST /api/chat/ HTTP/1.1" 200 520
+"GET /api/status/ HTTP/1.1" 200 346
+Processing chat request: romantic russia... Session: session_1753651040
+Processing request - Intent: general, Complexity: medium
+Using enhanced RAG system
+"POST /api/chat/ HTTP/1.1" 200 5630
+Watching for file changes with StatReloader

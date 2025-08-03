@@ -1,0 +1,46 @@
+{
+  "total_records": 1431,
+  "by_source": {
+    "curated": 905,
+    "synthetic": 255,
+    "scraped": 271
+  },
+  "by_type": {
+    "curated_planning": 812,
+    "curated_advice": 93,
+    "detailed_planning": 255,
+    "discussion": 178,
+    "question_answer": 91,
+    "short_conversation": 2
+  },
+  "by_quality": {
+    "5": 1160,
+    "3": 269,
+    "2": 2
+  },
+  "avg_prompt_length": 104.92592592592592,
+  "avg_response_length": 2636.5527603074775,
+  "destinations": [
+    "Vancouver",
+    "Dubai",
+    "Hungary",
+    "Vienna",
+    "Warsaw",
+    "Norway",
+    "Tours",
+    "Prague",
+    "Male",
+    "Bangkok",
+    "Thailand",
+    "Saint-Tropez",
+    "Morocco",
+    "Antalya",
+    "Greece",
+    "Cairo",
+    "Japan",
+    "Goa",
+    "Canada",
+    "Santiago"
+  ],
+  "unique_destinations": 185
+}

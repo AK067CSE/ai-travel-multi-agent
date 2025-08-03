@@ -1,0 +1,115 @@
+# Data Expansion Configuration
+
+scraping:
+  enabled: true
+  sources:
+    reddit:
+      enabled: true
+      subreddits: ["travel", "solotravel", "backpacking", "digitalnomad", "TravelNoPics"]
+      limit_per_subreddit: 200
+      delay_seconds: 2
+    
+    forums:
+      enabled: true
+      tripadvisor: true
+      lonelyplanet: true
+      delay_seconds: 3
+    
+    blogs:
+      enabled: true
+      sources: ["nomadicmatt", "lonelyplanet", "travelfreak"]
+      delay_seconds: 2
+
+synthetic_generation:
+  enabled: true
+  target_count: 5000
+  batch_size: 20
+  delay_seconds: 1.0
+
+  # LangChain + Groq Configuration
+  model_name: "llama3-8b-8192"  # Available: llama3-8b-8192, llama3-70b-8192, mixtral-8x7b-32768
+
+  # Generation parameters
+  temperature: 0.7
+  max_tokens: 2000
+  
+  # Scenario diversity
+  destinations_count: 50
+  traveler_types_count: 25
+  interests_per_scenario: [2, 3, 4]
+  
+  # Budget ranges (USD)
+  budget_ranges:
+    - [300, 800]    # Budget
+    - [800, 2000]   # Mid-range
+    - [2000, 5000]  # Luxury
+    - [5000, 15000] # Ultra-luxury
+  
+  # Trip durations (days)
+  duration_options: [3, 5, 7, 10, 14, 21, 30, 45, 60]
+
+quality_control:
+  min_prompt_length: 20
+  min_response_length: 100
+  max_response_length: 5000
+  
+  # Required keywords for travel content
+  travel_keywords:
+    - "travel"
+    - "trip"
+    - "vacation"
+    - "holiday"
+    - "destination"
+    - "hotel"
+    - "flight"
+    - "restaurant"
+    - "attraction"
+    - "tour"
+    - "visit"
+    - "stay"
+    - "accommodation"
+    - "transport"
+    - "budget"
+    - "itinerary"
+    - "guide"
+  
+  # Content filters
+  exclude_patterns:
+    - "error"
+    - "not found"
+    - "access denied"
+    - "please try again"
+    - "something went wrong"
+  
+  # Minimum keyword matches required
+  min_travel_keywords: 1
+
+output:
+  directory: "expanded_data"
+  formats: ["jsonl", "csv"]
+  include_metadata: true
+  
+  # Backup settings
+  create_backups: true
+  backup_interval: 1000  # Create backup every N records
+
+logging:
+  level: "INFO"
+  file: "data_expansion.log"
+  format: "%(asctime)s - %(name)s - %(levelname)s - %(message)s"
+
+# Rate limiting and safety
+rate_limiting:
+  requests_per_minute: 30
+  max_retries: 3
+  backoff_factor: 2
+
+# Data sources priority (1-10, higher is better)
+source_priority:
+  existing_data: 10
+  synthetic_groq: 9
+  synthetic_openai: 8
+  reddit: 7
+  tripadvisor: 6
+  blogs: 5
+  forums: 4

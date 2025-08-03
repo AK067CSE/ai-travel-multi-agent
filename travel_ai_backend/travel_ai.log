@@ -1,0 +1,198 @@
+INFO 2025-07-23 19:27:08,073 enhanced_rag 21376 30316 Groq LLM initialized
+INFO 2025-07-23 19:27:08,792 enhanced_rag 21376 30316 Gemini LLM initialized
+INFO 2025-07-23 19:27:14,414 enhanced_rag 21376 30316 ChromaDB initialized successfully
+INFO 2025-07-23 19:27:14,416 enhanced_rag 21376 30316 Enhanced Travel RAG system initialized
+INFO 2025-07-23 19:27:14,417 enhanced_rag 21376 30316 Loading and indexing travel dataset with enhanced RAG...
+INFO 2025-07-23 19:27:14,417 enhanced_rag 21376 30316 Loaded 0 travel documents
+INFO 2025-07-23 19:27:14,418 enhanced_rag 21376 30316 Created 0 chunks from 0 documents
+ERROR 2025-07-23 19:27:14,420 enhanced_rag 21376 30316 TF-IDF indexing failed: empty vocabulary; perhaps the documents only contain stop words
+INFO 2025-07-23 19:30:14,378 enhanced_rag 37508 31572 Groq LLM initialized
+INFO 2025-07-23 19:30:14,445 enhanced_rag 37508 31572 Gemini LLM initialized
+INFO 2025-07-23 19:30:14,709 enhanced_rag 37508 31572 ChromaDB initialized successfully
+INFO 2025-07-23 19:30:14,710 enhanced_rag 37508 31572 Enhanced Travel RAG system initialized
+INFO 2025-07-23 19:30:14,711 enhanced_rag 37508 31572 Loading and indexing travel dataset with enhanced RAG...
+INFO 2025-07-23 19:30:14,845 enhanced_rag 37508 31572 Loaded 1160 travel documents
+INFO 2025-07-23 19:30:14,873 enhanced_rag 37508 31572 Created 8885 chunks from 1160 documents
+INFO 2025-07-23 19:30:16,853 enhanced_rag 37508 31572 TF-IDF fallback index created with 5000 features
+INFO 2025-07-23 19:30:16,854 enhanced_rag 37508 31572 Enhanced indexing completed successfully
+WARNING 2025-07-23 19:30:17,275 enhanced_rag 37508 31572 Reranking failed for result: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}
+WARNING 2025-07-23 19:30:17,398 enhanced_rag 37508 31572 Reranking failed for result: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}
+WARNING 2025-07-23 19:30:17,460 enhanced_rag 37508 31572 Reranking failed for result: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}
+WARNING 2025-07-23 19:30:17,615 enhanced_rag 37508 31572 Reranking failed for result: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}
+WARNING 2025-07-23 19:30:17,703 enhanced_rag 37508 31572 Reranking failed for result: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}
+WARNING 2025-07-23 19:30:17,805 enhanced_rag 37508 31572 Reranking failed for result: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}
+WARNING 2025-07-23 19:30:17,909 enhanced_rag 37508 31572 Reranking failed for result: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}
+WARNING 2025-07-23 19:30:18,016 enhanced_rag 37508 31572 Reranking failed for result: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}
+WARNING 2025-07-23 19:30:18,096 enhanced_rag 37508 31572 Reranking failed for result: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}
+WARNING 2025-07-23 19:30:18,178 enhanced_rag 37508 31572 Reranking failed for result: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}
+ERROR 2025-07-23 19:30:18,319 enhanced_rag 37508 31572 Enhanced response generation error: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}
+WARNING 2025-07-23 19:30:18,417 enhanced_rag 37508 31572 Reranking failed for result: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}
+WARNING 2025-07-23 19:30:18,538 enhanced_rag 37508 31572 Reranking failed for result: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}
+WARNING 2025-07-23 19:30:18,628 enhanced_rag 37508 31572 Reranking failed for result: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}
+WARNING 2025-07-23 19:30:18,727 enhanced_rag 37508 31572 Reranking failed for result: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}
+WARNING 2025-07-23 19:30:18,791 enhanced_rag 37508 31572 Reranking failed for result: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}
+WARNING 2025-07-23 19:30:18,933 enhanced_rag 37508 31572 Reranking failed for result: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}
+WARNING 2025-07-23 19:30:19,035 enhanced_rag 37508 31572 Reranking failed for result: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}
+WARNING 2025-07-23 19:30:19,137 enhanced_rag 37508 31572 Reranking failed for result: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}
+WARNING 2025-07-23 19:30:19,218 enhanced_rag 37508 31572 Reranking failed for result: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}
+WARNING 2025-07-23 19:30:19,344 enhanced_rag 37508 31572 Reranking failed for result: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}
+ERROR 2025-07-23 19:30:19,412 enhanced_rag 37508 31572 Enhanced response generation error: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}
+WARNING 2025-07-23 19:30:19,547 enhanced_rag 37508 31572 Reranking failed for result: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}
+WARNING 2025-07-23 19:30:19,653 enhanced_rag 37508 31572 Reranking failed for result: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}
+WARNING 2025-07-23 19:30:19,821 enhanced_rag 37508 31572 Reranking failed for result: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}
+WARNING 2025-07-23 19:30:19,880 enhanced_rag 37508 31572 Reranking failed for result: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}
+WARNING 2025-07-23 19:30:19,939 enhanced_rag 37508 31572 Reranking failed for result: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}
+WARNING 2025-07-23 19:30:19,998 enhanced_rag 37508 31572 Reranking failed for result: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}
+WARNING 2025-07-23 19:30:20,055 enhanced_rag 37508 31572 Reranking failed for result: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}
+WARNING 2025-07-23 19:30:20,115 enhanced_rag 37508 31572 Reranking failed for result: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}
+WARNING 2025-07-23 19:30:20,181 enhanced_rag 37508 31572 Reranking failed for result: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}
+WARNING 2025-07-23 19:30:20,257 enhanced_rag 37508 31572 Reranking failed for result: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}
+ERROR 2025-07-23 19:30:20,318 enhanced_rag 37508 31572 Enhanced response generation error: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}
+WARNING 2025-07-23 19:30:20,404 enhanced_rag 37508 31572 Reranking failed for result: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}
+WARNING 2025-07-23 19:30:20,465 enhanced_rag 37508 31572 Reranking failed for result: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}
+WARNING 2025-07-23 19:30:20,532 enhanced_rag 37508 31572 Reranking failed for result: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}
+WARNING 2025-07-23 19:30:20,598 enhanced_rag 37508 31572 Reranking failed for result: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}
+WARNING 2025-07-23 19:30:20,657 enhanced_rag 37508 31572 Reranking failed for result: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}
+WARNING 2025-07-23 19:30:20,717 enhanced_rag 37508 31572 Reranking failed for result: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}
+WARNING 2025-07-23 19:30:20,796 enhanced_rag 37508 31572 Reranking failed for result: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}
+WARNING 2025-07-23 19:30:20,854 enhanced_rag 37508 31572 Reranking failed for result: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}
+WARNING 2025-07-23 19:30:20,915 enhanced_rag 37508 31572 Reranking failed for result: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}
+WARNING 2025-07-23 19:30:20,997 enhanced_rag 37508 31572 Reranking failed for result: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}
+ERROR 2025-07-23 19:30:21,056 enhanced_rag 37508 31572 Enhanced response generation error: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}
+WARNING 2025-07-23 19:30:22,145 multi_llm_manager 37508 31572 Failed to initialize groq_llama3_70b: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}
+WARNING 2025-07-23 19:30:23,225 multi_llm_manager 37508 31572 Failed to initialize groq_llama3_8b: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}
+WARNING 2025-07-23 19:30:28,301 multi_llm_manager 37508 31572 Failed to initialize gemini_pro: Invalid argument provided to Gemini: 400 API key expired. Please renew the API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key expired. Please renew the API key."
+]
+WARNING 2025-07-23 19:30:29,494 multi_llm_manager 37508 31572 Failed to initialize groq_mixtral: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}
+INFO 2025-07-23 19:30:29,495 multi_llm_manager 37508 31572 MultiLLMManager initialized with 0 LLMs
+ERROR 2025-07-23 19:30:29,496 multi_llm_manager 37508 31572 No LLMs available
+INFO 2025-07-23 20:18:32,796 enhanced_rag 27524 7296 Groq LLM initialized
+INFO 2025-07-23 20:18:32,855 enhanced_rag 27524 7296 Gemini LLM initialized
+INFO 2025-07-23 20:18:33,075 enhanced_rag 27524 7296 ChromaDB initialized successfully
+INFO 2025-07-23 20:18:33,075 enhanced_rag 27524 7296 Enhanced Travel RAG system initialized
+INFO 2025-07-23 20:18:33,076 enhanced_rag 27524 7296 Loading and indexing travel dataset with enhanced RAG...
+INFO 2025-07-23 20:18:33,112 enhanced_rag 27524 7296 Loaded 1160 travel documents
+INFO 2025-07-23 20:18:33,127 enhanced_rag 27524 7296 Created 8885 chunks from 1160 documents
+INFO 2025-07-23 20:18:35,289 enhanced_rag 27524 7296 TF-IDF fallback index created with 5000 features
+INFO 2025-07-23 20:18:35,289 enhanced_rag 27524 7296 Enhanced indexing completed successfully
+INFO 2025-07-23 20:20:09,997 multi_llm_manager 27524 7296 Successfully initialized groq_llama3_70b
+INFO 2025-07-23 20:20:14,696 multi_llm_manager 27524 7296 Successfully initialized groq_llama3_8b
+WARNING 2025-07-23 20:20:16,582 multi_llm_manager 27524 7296 Failed to initialize gemini_pro: Invalid argument provided to Gemini: 400 API key expired. Please renew the API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key expired. Please renew the API key."
+]
+WARNING 2025-07-23 20:20:17,286 multi_llm_manager 27524 7296 Failed to initialize groq_mixtral: Error code: 400 - {'error': {'message': 'The model `mixtral-8x7b-32768` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.', 'type': 'invalid_request_error', 'code': 'model_decommissioned'}}
+INFO 2025-07-23 20:20:17,286 multi_llm_manager 27524 7296 MultiLLMManager initialized with 2 LLMs
+INFO 2025-07-23 21:47:17,702 enhanced_rag 25772 15744 Using TF-IDF as primary embedding method (highly effective for travel data)
+INFO 2025-07-23 21:47:21,573 enhanced_rag 25772 15744 Groq LLM initialized
+INFO 2025-07-23 21:47:23,137 enhanced_rag 25772 15744 Gemini LLM initialized
+INFO 2025-07-23 21:47:25,278 enhanced_rag 25772 15744 ChromaDB initialized successfully
+INFO 2025-07-23 21:47:25,280 enhanced_rag 25772 15744 Enhanced Travel RAG system initialized
+INFO 2025-07-23 21:47:25,281 enhanced_rag 25772 15744 Loading and indexing travel dataset with enhanced RAG...
+INFO 2025-07-23 21:47:25,411 enhanced_rag 25772 15744 Loaded 1160 travel documents
+INFO 2025-07-23 21:47:25,450 enhanced_rag 25772 15744 Created 8885 chunks from 1160 documents
+INFO 2025-07-23 21:47:28,977 enhanced_rag 25772 15744 Enhanced TF-IDF index created with 8000 features
+INFO 2025-07-23 21:47:28,978 enhanced_rag 25772 15744 TF-IDF optimized for travel data with trigrams and enhanced tokenization
+INFO 2025-07-23 21:47:28,978 enhanced_rag 25772 15744 Enhanced indexing completed successfully
+INFO 2025-07-23 21:49:01,413 multi_llm_manager 25772 15744 Successfully initialized groq_llama3_70b
+INFO 2025-07-23 21:49:03,241 multi_llm_manager 25772 15744 Successfully initialized groq_llama3_8b
+WARNING 2025-07-23 21:49:09,833 multi_llm_manager 25772 15744 Failed to initialize gemini_pro: Invalid argument provided to Gemini: 400 API key expired. Please renew the API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key expired. Please renew the API key."
+]
+WARNING 2025-07-23 21:49:11,319 multi_llm_manager 25772 15744 Failed to initialize groq_mixtral: Error code: 400 - {'error': {'message': 'The model `mixtral-8x7b-32768` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.', 'type': 'invalid_request_error', 'code': 'model_decommissioned'}}
+INFO 2025-07-23 21:49:11,331 multi_llm_manager 25772 15744 MultiLLMManager initialized with 2 LLMs
+INFO 2025-07-23 21:51:14,222 enhanced_rag 23984 3192 Using TF-IDF as primary embedding method (highly effective for travel data)
+INFO 2025-07-23 21:51:15,379 enhanced_rag 23984 3192 Groq LLM initialized
+INFO 2025-07-23 21:51:15,468 enhanced_rag 23984 3192 Gemini LLM initialized
+INFO 2025-07-23 21:51:15,698 enhanced_rag 23984 3192 ChromaDB initialized successfully
+INFO 2025-07-23 21:51:15,699 enhanced_rag 23984 3192 Enhanced Travel RAG system initialized
+INFO 2025-07-23 21:51:15,699 enhanced_rag 23984 3192 Loading and indexing travel dataset with enhanced RAG...
+INFO 2025-07-23 21:51:15,742 enhanced_rag 23984 3192 Loaded 1160 travel documents
+INFO 2025-07-23 21:51:15,763 enhanced_rag 23984 3192 Created 8885 chunks from 1160 documents
+INFO 2025-07-23 21:51:18,540 enhanced_rag 23984 3192 Enhanced TF-IDF index created with 8000 features
+INFO 2025-07-23 21:51:18,540 enhanced_rag 23984 3192 TF-IDF optimized for travel data with trigrams and enhanced tokenization
+INFO 2025-07-23 21:51:18,540 enhanced_rag 23984 3192 Enhanced indexing completed successfully
+INFO 2025-07-23 22:07:25,795 crew_ai_system 27164 27240 CrewAI Travel System initialized successfully
+ERROR 2025-07-23 22:07:26,632 crew_ai_system 27164 27240 CrewAI travel planning error: litellm.BadRequestError: LLM Provider NOT provided. Pass in the LLM provider you are trying to call. You passed model=llama3-70b-8192
+ Pass model as E.g. For 'Huggingface' inference endpoints pass in `completion(model='huggingface/starcoder',..)` Learn more: https://docs.litellm.ai/docs/providers
+INFO 2025-07-23 22:27:02,959 advanced_crew_ai 38384 37384 Advanced CrewAI system with 5 agents initialized
+INFO 2025-07-23 22:27:57,737 enhanced_rag 38384 37384 Using TF-IDF as primary embedding method (highly effective for travel data)
+INFO 2025-07-23 22:27:58,689 enhanced_rag 38384 37384 Groq LLM initialized
+INFO 2025-07-23 22:27:58,741 enhanced_rag 38384 37384 Gemini LLM initialized
+INFO 2025-07-23 22:27:58,961 enhanced_rag 38384 37384 ChromaDB initialized successfully
+INFO 2025-07-23 22:27:58,962 enhanced_rag 38384 37384 Enhanced Travel RAG system initialized
+ERROR 2025-07-23 22:27:58,964 enhanced_rag 38384 37384 No retrieval method available
+INFO 2025-07-23 22:28:10,009 enhanced_rag 38384 37384 Using TF-IDF as primary embedding method (highly effective for travel data)
+INFO 2025-07-23 22:28:10,566 enhanced_rag 38384 37384 Groq LLM initialized
+INFO 2025-07-23 22:28:10,571 enhanced_rag 38384 37384 Gemini LLM initialized
+INFO 2025-07-23 22:28:10,577 enhanced_rag 38384 37384 ChromaDB initialized successfully
+INFO 2025-07-23 22:28:10,578 enhanced_rag 38384 37384 Enhanced Travel RAG system initialized
+ERROR 2025-07-23 22:28:10,580 enhanced_rag 38384 37384 No retrieval method available
+ERROR 2025-07-23 22:28:15,789 advanced_crew_ai 38384 37384 Advanced CrewAI error: litellm.RateLimitError: RateLimitError: GroqException - {"error":{"message":"Rate limit reached for model `llama3-70b-8192` in organization `org_01jzrdm93feae8wgnkvzhrq00c` service tier `on_demand` on tokens per minute (TPM): Limit 6000, Used 5775, Requested 1941. Please try again in 17.154s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing","type":"tokens","code":"rate_limit_exceeded"}}
+
+INFO 2025-07-23 22:28:15,903 enhanced_rag 38384 37384 Using TF-IDF as primary embedding method (highly effective for travel data)
+INFO 2025-07-23 22:28:18,701 enhanced_rag 38384 37384 Groq LLM initialized
+INFO 2025-07-23 22:28:19,031 enhanced_rag 38384 37384 Gemini LLM initialized
+INFO 2025-07-23 22:28:19,193 enhanced_rag 38384 37384 ChromaDB initialized successfully
+INFO 2025-07-23 22:28:19,318 enhanced_rag 38384 37384 Enhanced Travel RAG system initialized
+ERROR 2025-07-23 22:28:19,330 enhanced_rag 38384 37384 No retrieval method available
+INFO 2025-07-23 22:31:58,960 advanced_crew_ai 17640 34616 Advanced CrewAI system with 5 agents initialized
+INFO 2025-07-23 22:32:59,312 enhanced_rag 17640 34616 Using TF-IDF as primary embedding method (highly effective for travel data)
+INFO 2025-07-23 22:33:00,112 enhanced_rag 17640 34616 Groq LLM initialized
+INFO 2025-07-23 22:33:00,170 enhanced_rag 17640 34616 Gemini LLM initialized
+INFO 2025-07-23 22:33:00,366 enhanced_rag 17640 34616 ChromaDB initialized successfully
+INFO 2025-07-23 22:33:00,367 enhanced_rag 17640 34616 Enhanced Travel RAG system initialized
+ERROR 2025-07-23 22:33:00,368 enhanced_rag 17640 34616 No retrieval method available
+INFO 2025-07-23 22:33:13,429 enhanced_rag 17640 34616 Using TF-IDF as primary embedding method (highly effective for travel data)
+INFO 2025-07-23 22:33:14,018 enhanced_rag 17640 34616 Groq LLM initialized
+INFO 2025-07-23 22:33:14,022 enhanced_rag 17640 34616 Gemini LLM initialized
+INFO 2025-07-23 22:33:14,028 enhanced_rag 17640 34616 ChromaDB initialized successfully
+INFO 2025-07-23 22:33:14,030 enhanced_rag 17640 34616 Enhanced Travel RAG system initialized
+ERROR 2025-07-23 22:33:14,031 enhanced_rag 17640 34616 No retrieval method available
+ERROR 2025-07-23 22:33:17,361 advanced_crew_ai 17640 34616 Advanced CrewAI error: litellm.RateLimitError: RateLimitError: GroqException - {"error":{"message":"Rate limit reached for model `llama3-70b-8192` in organization `org_01jzrdm93feae8wgnkvzhrq00c` service tier `on_demand` on tokens per minute (TPM): Limit 6000, Used 6337, Requested 1964. Please try again in 23.019s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing","type":"tokens","code":"rate_limit_exceeded"}}
+
+INFO 2025-07-23 22:33:17,361 enhanced_rag 17640 34616 Using TF-IDF as primary embedding method (highly effective for travel data)
+INFO 2025-07-23 22:33:17,906 enhanced_rag 17640 34616 Groq LLM initialized
+INFO 2025-07-23 22:33:17,914 enhanced_rag 17640 34616 Gemini LLM initialized
+INFO 2025-07-23 22:33:17,920 enhanced_rag 17640 34616 ChromaDB initialized successfully
+INFO 2025-07-23 22:33:17,921 enhanced_rag 17640 34616 Enhanced Travel RAG system initialized
+ERROR 2025-07-23 22:33:17,922 enhanced_rag 17640 34616 No retrieval method available
+INFO 2025-07-23 23:49:38,841 enhanced_rag 35520 39320 Using TF-IDF as primary embedding method (highly effective for travel data)
+INFO 2025-07-23 23:49:57,908 advanced_crew_ai 35520 34208 Advanced CrewAI system with 5 agents initialized
+INFO 2025-07-23 23:50:06,183 enhanced_rag 35520 39320 Groq LLM initialized
+INFO 2025-07-23 23:50:07,006 enhanced_rag 35520 39320 Gemini LLM initialized
+INFO 2025-07-23 23:50:07,686 enhanced_rag 35520 39320 ChromaDB initialized successfully
+INFO 2025-07-23 23:50:07,687 enhanced_rag 35520 39320 Enhanced Travel RAG system initialized
+INFO 2025-07-23 23:50:07,729 advanced_crew_ai 35520 39320 Advanced CrewAI system with 5 agents initialized
+INFO 2025-07-23 23:50:11,465 enhanced_rag 35520 34208 Using TF-IDF as primary embedding method (highly effective for travel data)
+INFO 2025-07-23 23:50:12,421 enhanced_rag 35520 34208 Groq LLM initialized
+INFO 2025-07-23 23:50:12,432 enhanced_rag 35520 34208 Gemini LLM initialized
+INFO 2025-07-23 23:50:12,441 enhanced_rag 35520 34208 ChromaDB initialized successfully
+INFO 2025-07-23 23:50:12,442 enhanced_rag 35520 34208 Enhanced Travel RAG system initialized
+ERROR 2025-07-23 23:50:12,443 enhanced_rag 35520 34208 No retrieval method available
+ERROR 2025-07-23 23:50:32,360 advanced_crew_ai 35520 34208 Advanced CrewAI error: litellm.RateLimitError: RateLimitError: GroqException - {"error":{"message":"Rate limit reached for model `llama3-70b-8192` in organization `org_01jzrdm93feae8wgnkvzhrq00c` service tier `on_demand` on tokens per minute (TPM): Limit 6000, Used 5164, Requested 1063. Please try again in 2.27s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing","type":"tokens","code":"rate_limit_exceeded"}}
+
+INFO 2025-07-23 23:50:32,361 enhanced_rag 35520 34208 Using TF-IDF as primary embedding method (highly effective for travel data)
+INFO 2025-07-23 23:50:33,699 enhanced_rag 35520 34208 Groq LLM initialized
+INFO 2025-07-23 23:50:33,706 enhanced_rag 35520 34208 Gemini LLM initialized
+INFO 2025-07-23 23:50:33,716 enhanced_rag 35520 34208 ChromaDB initialized successfully
+INFO 2025-07-23 23:50:33,717 enhanced_rag 35520 34208 Enhanced Travel RAG system initialized
+ERROR 2025-07-23 23:50:33,717 enhanced_rag 35520 34208 No retrieval method available
